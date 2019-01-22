@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\bin\Debug\netcoreapp2.1\07. SoftUni Party.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\07. SoftUni Party\obj\Debug\netcoreapp2.1\07. SoftUni Party.pdb

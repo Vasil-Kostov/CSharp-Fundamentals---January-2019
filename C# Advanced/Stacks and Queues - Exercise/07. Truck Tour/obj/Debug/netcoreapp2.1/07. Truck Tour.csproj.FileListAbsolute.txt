@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp2.1\07. Truck Tour.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp2.1\07. Truck Tour.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp2.1\07. Truck Tour.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp2.1\07. Truck Tour.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\07. Truck Tour\bin\Debug\netcoreapp2.1\07. Truck Tour.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\07. Truck Tour\obj\Debug\netcoreapp2.1\07. Truck Tour.pdb

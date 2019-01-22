@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\05. Fashion Boutique\bin\Debug\netcoreapp2.1\05. Fashion Boutique.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\05. Fashion Boutique\obj\Debug\netcoreapp2.1\05. Fashion Boutique.pdb

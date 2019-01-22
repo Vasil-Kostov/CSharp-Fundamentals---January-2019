@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\bin\Debug\netcoreapp2.1\02. Average Student Grades.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\02. Average Student Grades\obj\Debug\netcoreapp2.1\02. Average Student Grades.pdb

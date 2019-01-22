@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp2.1\06. Parking Lot.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp2.1\06. Parking Lot.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp2.1\06. Parking Lot.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp2.1\06. Parking Lot.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\bin\Debug\netcoreapp2.1\06. Parking Lot.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp2.1\06. Parking Lot.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp2.1\06. Parking Lot.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp2.1\06. Parking Lot.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp2.1\06. Parking Lot.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\06. Parking Lot\obj\Debug\netcoreapp2.1\06. Parking Lot.pdb

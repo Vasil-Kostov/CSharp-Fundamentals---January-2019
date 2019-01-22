@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\netcoreapp2.1\03. Maximal Sum.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\netcoreapp2.1\03. Maximal Sum.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\netcoreapp2.1\03. Maximal Sum.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\netcoreapp2.1\03. Maximal Sum.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\03. Maximal Sum\bin\Debug\netcoreapp2.1\03. Maximal Sum.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp2.1\03. Maximal Sum.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp2.1\03. Maximal Sum.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp2.1\03. Maximal Sum.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp2.1\03. Maximal Sum.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp2.1\03. Maximal Sum.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\03. Maximal Sum\obj\Debug\netcoreapp2.1\03. Maximal Sum.pdb

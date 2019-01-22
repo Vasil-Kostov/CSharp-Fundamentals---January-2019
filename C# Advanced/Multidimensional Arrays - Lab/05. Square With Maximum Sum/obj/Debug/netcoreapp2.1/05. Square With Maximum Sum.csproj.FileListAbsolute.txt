@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\netcoreapp2.1\05. Square With Maximum Sum.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\netcoreapp2.1\05. Square With Maximum Sum.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\netcoreapp2.1\05. Square With Maximum Sum.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\netcoreapp2.1\05. Square With Maximum Sum.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\05. Square With Maximum Sum\bin\Debug\netcoreapp2.1\05. Square With Maximum Sum.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp2.1\05. Square With Maximum Sum.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp2.1\05. Square With Maximum Sum.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp2.1\05. Square With Maximum Sum.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp2.1\05. Square With Maximum Sum.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\05. Square With Maximum Sum\obj\Debug\netcoreapp2.1\05. Square With Maximum Sum.pdb

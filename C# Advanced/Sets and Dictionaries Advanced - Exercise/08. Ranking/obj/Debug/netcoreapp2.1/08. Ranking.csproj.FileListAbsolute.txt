@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\bin\Debug\netcoreapp2.1\08. Ranking.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\08. Ranking\obj\Debug\netcoreapp2.1\08. Ranking.pdb

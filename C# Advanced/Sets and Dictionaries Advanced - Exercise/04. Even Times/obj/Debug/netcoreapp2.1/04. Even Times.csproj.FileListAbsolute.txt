@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp2.1\04. Even Times.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp2.1\04. Even Times.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp2.1\04. Even Times.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp2.1\04. Even Times.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\bin\Debug\netcoreapp2.1\04. Even Times.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp2.1\04. Even Times.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp2.1\04. Even Times.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp2.1\04. Even Times.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp2.1\04. Even Times.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\04. Even Times\obj\Debug\netcoreapp2.1\04. Even Times.pdb

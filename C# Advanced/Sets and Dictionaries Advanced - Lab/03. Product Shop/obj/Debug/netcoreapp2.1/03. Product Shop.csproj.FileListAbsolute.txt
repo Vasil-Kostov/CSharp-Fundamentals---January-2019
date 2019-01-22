@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\bin\Debug\netcoreapp2.1\03. Product Shop.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Lab\03. Product Shop\obj\Debug\netcoreapp2.1\03. Product Shop.pdb

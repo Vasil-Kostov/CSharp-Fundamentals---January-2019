@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\06. Bomb the Basement\bin\Debug\netcoreapp2.1\06. Bomb the Basement.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\06. Bomb the Basement\bin\Debug\netcoreapp2.1\06. Bomb the Basement.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\06. Bomb the Basement\bin\Debug\netcoreapp2.1\06. Bomb the Basement.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\06. Bomb the Basement\bin\Debug\netcoreapp2.1\06. Bomb the Basement.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\06. Bomb the Basement\bin\Debug\netcoreapp2.1\06. Bomb the Basement.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\06. Bomb the Basement\obj\Debug\netcoreapp2.1\06. Bomb the Basement.pdb

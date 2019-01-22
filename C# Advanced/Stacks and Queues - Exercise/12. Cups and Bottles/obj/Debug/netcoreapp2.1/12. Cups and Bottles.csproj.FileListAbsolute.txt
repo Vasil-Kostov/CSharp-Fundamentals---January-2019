@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp2.1\12. Cups and Bottles.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp2.1\12. Cups and Bottles.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp2.1\12. Cups and Bottles.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp2.1\12. Cups and Bottles.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\12. Cups and Bottles\bin\Debug\netcoreapp2.1\12. Cups and Bottles.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\12. Cups and Bottles\obj\Debug\netcoreapp2.1\12. Cups and Bottles.pdb

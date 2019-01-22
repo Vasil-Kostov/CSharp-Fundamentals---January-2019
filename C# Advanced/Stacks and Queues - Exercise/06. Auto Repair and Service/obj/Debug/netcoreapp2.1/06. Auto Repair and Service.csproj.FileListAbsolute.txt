@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\06. Auto Repair and Service\bin\Debug\netcoreapp2.1\06. Auto Repair and Service.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\06. Auto Repair and Service\bin\Debug\netcoreapp2.1\06. Auto Repair and Service.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\06. Auto Repair and Service\bin\Debug\netcoreapp2.1\06. Auto Repair and Service.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\06. Auto Repair and Service\bin\Debug\netcoreapp2.1\06. Auto Repair and Service.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\06. Auto Repair and Service\bin\Debug\netcoreapp2.1\06. Auto Repair and Service.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\06. Auto Repair and Service\obj\Debug\netcoreapp2.1\06. Auto Repair and Service.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\06. Auto Repair and Service\obj\Debug\netcoreapp2.1\06. Auto Repair and Service.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\06. Auto Repair and Service\obj\Debug\netcoreapp2.1\06. Auto Repair and Service.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\06. Auto Repair and Service\obj\Debug\netcoreapp2.1\06. Auto Repair and Service.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\06. Auto Repair and Service\obj\Debug\netcoreapp2.1\06. Auto Repair and Service.pdb

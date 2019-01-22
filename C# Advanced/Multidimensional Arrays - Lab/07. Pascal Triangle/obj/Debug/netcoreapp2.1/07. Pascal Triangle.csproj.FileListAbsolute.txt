@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\07. Pascal Triangle\bin\Debug\netcoreapp2.1\07. Pascal Triangle.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\07. Pascal Triangle\bin\Debug\netcoreapp2.1\07. Pascal Triangle.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\07. Pascal Triangle\bin\Debug\netcoreapp2.1\07. Pascal Triangle.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\07. Pascal Triangle\bin\Debug\netcoreapp2.1\07. Pascal Triangle.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\07. Pascal Triangle\bin\Debug\netcoreapp2.1\07. Pascal Triangle.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\07. Pascal Triangle\obj\Debug\netcoreapp2.1\07. Pascal Triangle.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\07. Pascal Triangle\obj\Debug\netcoreapp2.1\07. Pascal Triangle.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\07. Pascal Triangle\obj\Debug\netcoreapp2.1\07. Pascal Triangle.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\07. Pascal Triangle\obj\Debug\netcoreapp2.1\07. Pascal Triangle.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\07. Pascal Triangle\obj\Debug\netcoreapp2.1\07. Pascal Triangle.pdb

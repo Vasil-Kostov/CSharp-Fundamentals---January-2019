@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp2.1\03. Primary Diagonal.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp2.1\03. Primary Diagonal.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp2.1\03. Primary Diagonal.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp2.1\03. Primary Diagonal.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\03. Primary Diagonal\bin\Debug\netcoreapp2.1\03. Primary Diagonal.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp2.1\03. Primary Diagonal.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp2.1\03. Primary Diagonal.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp2.1\03. Primary Diagonal.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp2.1\03. Primary Diagonal.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\03. Primary Diagonal\obj\Debug\netcoreapp2.1\03. Primary Diagonal.pdb

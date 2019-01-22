@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp2.1\04. Fast Food.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp2.1\04. Fast Food.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp2.1\04. Fast Food.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp2.1\04. Fast Food.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\04. Fast Food\bin\Debug\netcoreapp2.1\04. Fast Food.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\04. Fast Food\obj\Debug\netcoreapp2.1\04. Fast Food.pdb

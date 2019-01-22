@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp2.1\01. Sum Matrix Elements.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp2.1\01. Sum Matrix Elements.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp2.1\01. Sum Matrix Elements.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp2.1\01. Sum Matrix Elements.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\01. Sum Matrix Elements\bin\Debug\netcoreapp2.1\01. Sum Matrix Elements.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\01. Sum Matrix Elements\obj\Debug\netcoreapp2.1\01. Sum Matrix Elements.pdb

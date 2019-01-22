@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\netcoreapp2.1\02. Squares in Matrix.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\netcoreapp2.1\02. Squares in Matrix.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\netcoreapp2.1\02. Squares in Matrix.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\netcoreapp2.1\02. Squares in Matrix.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\02. Squares in Matrix\bin\Debug\netcoreapp2.1\02. Squares in Matrix.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.1\02. Squares in Matrix.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.1\02. Squares in Matrix.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.1\02. Squares in Matrix.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.1\02. Squares in Matrix.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.1\02. Squares in Matrix.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\02. Squares in Matrix\obj\Debug\netcoreapp2.1\02. Squares in Matrix.pdb

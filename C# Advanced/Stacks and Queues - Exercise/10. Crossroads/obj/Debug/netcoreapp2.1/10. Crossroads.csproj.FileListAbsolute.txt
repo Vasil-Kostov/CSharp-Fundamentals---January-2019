@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\10. Crossroads\bin\Debug\netcoreapp2.1\10. Crossroads.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\10. Crossroads\obj\Debug\netcoreapp2.1\10. Crossroads.pdb

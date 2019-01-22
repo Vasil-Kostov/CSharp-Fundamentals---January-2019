@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\bin\Debug\netcoreapp2.1\06. Wardrobe.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\06. Wardrobe\obj\Debug\netcoreapp2.1\06. Wardrobe.pdb

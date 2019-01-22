@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\netcoreapp2.1\05. Snake Moves.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\netcoreapp2.1\05. Snake Moves.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\netcoreapp2.1\05. Snake Moves.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\netcoreapp2.1\05. Snake Moves.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\05. Snake Moves\bin\Debug\netcoreapp2.1\05. Snake Moves.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\netcoreapp2.1\05. Snake Moves.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\netcoreapp2.1\05. Snake Moves.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\netcoreapp2.1\05. Snake Moves.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\netcoreapp2.1\05. Snake Moves.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\netcoreapp2.1\05. Snake Moves.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\05. Snake Moves\obj\Debug\netcoreapp2.1\05. Snake Moves.pdb

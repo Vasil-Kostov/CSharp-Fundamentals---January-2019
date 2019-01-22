@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp2.1\08. Bombs.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp2.1\08. Bombs.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp2.1\08. Bombs.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp2.1\08. Bombs.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\netcoreapp2.1\08. Bombs.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\netcoreapp2.1\08. Bombs.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\netcoreapp2.1\08. Bombs.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\netcoreapp2.1\08. Bombs.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\08. Bombs\bin\Debug\netcoreapp2.1\08. Bombs.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp2.1\08. Bombs.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\08. Bombs\obj\Debug\netcoreapp2.1\08. Bombs.pdb

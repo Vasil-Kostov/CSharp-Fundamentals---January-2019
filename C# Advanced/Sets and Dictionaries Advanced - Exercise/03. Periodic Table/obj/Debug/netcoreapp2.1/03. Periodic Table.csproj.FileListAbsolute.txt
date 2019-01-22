@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\bin\Debug\netcoreapp2.1\03. Periodic Table.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\03. Periodic Table\obj\Debug\netcoreapp2.1\03. Periodic Table.pdb

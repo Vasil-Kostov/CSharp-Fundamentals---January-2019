@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\04. Matrix shuffling\bin\Debug\netcoreapp2.1\04. Matrix shuffling.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\04. Matrix shuffling\bin\Debug\netcoreapp2.1\04. Matrix shuffling.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\04. Matrix shuffling\bin\Debug\netcoreapp2.1\04. Matrix shuffling.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\04. Matrix shuffling\bin\Debug\netcoreapp2.1\04. Matrix shuffling.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\04. Matrix shuffling\bin\Debug\netcoreapp2.1\04. Matrix shuffling.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\04. Matrix shuffling\obj\Debug\netcoreapp2.1\04. Matrix shuffling.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\04. Matrix shuffling\obj\Debug\netcoreapp2.1\04. Matrix shuffling.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\04. Matrix shuffling\obj\Debug\netcoreapp2.1\04. Matrix shuffling.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\04. Matrix shuffling\obj\Debug\netcoreapp2.1\04. Matrix shuffling.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\04. Matrix shuffling\obj\Debug\netcoreapp2.1\04. Matrix shuffling.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\04. Matrix shuffling\obj\Debug\netcoreapp2.1\04. Matrix shuffling.pdb

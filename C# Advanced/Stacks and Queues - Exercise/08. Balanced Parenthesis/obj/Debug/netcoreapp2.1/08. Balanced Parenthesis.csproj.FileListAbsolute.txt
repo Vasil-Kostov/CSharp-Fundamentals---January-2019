@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\bin\Debug\netcoreapp2.1\08. Balanced Parenthesis.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\08. Balanced Parenthesis\obj\Debug\netcoreapp2.1\08. Balanced Parenthesis.pdb

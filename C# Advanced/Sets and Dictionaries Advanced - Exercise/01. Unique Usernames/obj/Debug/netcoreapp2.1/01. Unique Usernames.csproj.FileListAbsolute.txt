@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp2.1\01. Unique Usernames.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp2.1\01. Unique Usernames.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp2.1\01. Unique Usernames.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp2.1\01. Unique Usernames.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\bin\Debug\netcoreapp2.1\01. Unique Usernames.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp2.1\01. Unique Usernames.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp2.1\01. Unique Usernames.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp2.1\01. Unique Usernames.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp2.1\01. Unique Usernames.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp2.1\01. Unique Usernames.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\01. Unique Usernames\obj\Debug\netcoreapp2.1\01. Unique Usernames.pdb

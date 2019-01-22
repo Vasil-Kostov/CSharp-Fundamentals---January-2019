@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\01. Diagonal Difference\bin\Debug\netcoreapp2.1\01. Diagonal Difference.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\01. Diagonal Difference\bin\Debug\netcoreapp2.1\01. Diagonal Difference.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\01. Diagonal Difference\bin\Debug\netcoreapp2.1\01. Diagonal Difference.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\01. Diagonal Difference\bin\Debug\netcoreapp2.1\01. Diagonal Difference.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\01. Diagonal Difference\bin\Debug\netcoreapp2.1\01. Diagonal Difference.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\netcoreapp2.1\01. Diagonal Difference.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\netcoreapp2.1\01. Diagonal Difference.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\netcoreapp2.1\01. Diagonal Difference.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\netcoreapp2.1\01. Diagonal Difference.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Exercise\01. Diagonal Difference\obj\Debug\netcoreapp2.1\01. Diagonal Difference.pdb

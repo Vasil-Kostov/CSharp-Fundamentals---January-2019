@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp2.1\09. Simple Text Editor.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp2.1\09. Simple Text Editor.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp2.1\09. Simple Text Editor.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp2.1\09. Simple Text Editor.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\09. Simple Text Editor\bin\Debug\netcoreapp2.1\09. Simple Text Editor.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. Simple Text Editor.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. Simple Text Editor.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. Simple Text Editor.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. Simple Text Editor.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. Simple Text Editor.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\09. Simple Text Editor\obj\Debug\netcoreapp2.1\09. Simple Text Editor.csprojAssemblyReference.cache

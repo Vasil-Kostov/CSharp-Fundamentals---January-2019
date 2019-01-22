@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp2.1\02. Sets of Elements.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp2.1\02. Sets of Elements.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp2.1\02. Sets of Elements.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp2.1\02. Sets of Elements.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\bin\Debug\netcoreapp2.1\02. Sets of Elements.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp2.1\02. Sets of Elements.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp2.1\02. Sets of Elements.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp2.1\02. Sets of Elements.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp2.1\02. Sets of Elements.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp2.1\02. Sets of Elements.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\02. Sets of Elements\obj\Debug\netcoreapp2.1\02. Sets of Elements.pdb

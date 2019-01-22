@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp2.1\07. The V-Logger.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp2.1\07. The V-Logger.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp2.1\07. The V-Logger.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp2.1\07. The V-Logger.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\bin\Debug\netcoreapp2.1\07. The V-Logger.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Sets and Dictionaries Advanced - Exercise\07. The V-Logger\obj\Debug\netcoreapp2.1\07. The V-Logger.pdb

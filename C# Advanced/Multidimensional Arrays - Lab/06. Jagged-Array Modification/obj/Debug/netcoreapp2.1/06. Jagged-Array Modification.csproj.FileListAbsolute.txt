@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\06. Jagged-Array Modification\bin\Debug\netcoreapp2.1\06. Jagged-Array Modification.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\06. Jagged-Array Modification\bin\Debug\netcoreapp2.1\06. Jagged-Array Modification.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\06. Jagged-Array Modification\bin\Debug\netcoreapp2.1\06. Jagged-Array Modification.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\06. Jagged-Array Modification\bin\Debug\netcoreapp2.1\06. Jagged-Array Modification.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\06. Jagged-Array Modification\bin\Debug\netcoreapp2.1\06. Jagged-Array Modification.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp2.1\06. Jagged-Array Modification.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp2.1\06. Jagged-Array Modification.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp2.1\06. Jagged-Array Modification.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp2.1\06. Jagged-Array Modification.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Multidimensional Arrays - Lab\06. Jagged-Array Modification\obj\Debug\netcoreapp2.1\06. Jagged-Array Modification.pdb

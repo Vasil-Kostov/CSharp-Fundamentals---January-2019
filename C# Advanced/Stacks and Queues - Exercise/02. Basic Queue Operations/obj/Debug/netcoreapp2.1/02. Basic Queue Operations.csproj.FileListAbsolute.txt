@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp2.1\02. Basic Queue Operations.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp2.1\02. Basic Queue Operations.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp2.1\02. Basic Queue Operations.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp2.1\02. Basic Queue Operations.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\02. Basic Queue Operations\bin\Debug\netcoreapp2.1\02. Basic Queue Operations.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp2.1\02. Basic Queue Operations.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp2.1\02. Basic Queue Operations.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp2.1\02. Basic Queue Operations.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp2.1\02. Basic Queue Operations.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp2.1\02. Basic Queue Operations.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\Stacks and Queues - Exercise\02. Basic Queue Operations\obj\Debug\netcoreapp2.1\02. Basic Queue Operations.pdb
