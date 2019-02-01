@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\06. Folder Size\bin\Debug\netcoreapp2.1\06. Folder Size.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\06. Folder Size\bin\Debug\netcoreapp2.1\06. Folder Size.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\06. Folder Size\bin\Debug\netcoreapp2.1\06. Folder Size.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\06. Folder Size\bin\Debug\netcoreapp2.1\06. Folder Size.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\06. Folder Size\bin\Debug\netcoreapp2.1\06. Folder Size.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\06. Folder Size\obj\Debug\netcoreapp2.1\06. Folder Size.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\06. Folder Size\obj\Debug\netcoreapp2.1\06. Folder Size.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\06. Folder Size\obj\Debug\netcoreapp2.1\06. Folder Size.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\06. Folder Size\obj\Debug\netcoreapp2.1\06. Folder Size.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\06. Folder Size\obj\Debug\netcoreapp2.1\06. Folder Size.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\06. Folder Size\obj\Debug\netcoreapp2.1\06. Folder Size.pdb

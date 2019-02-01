@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.1\09. List Of Predicates.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.1\09. List Of Predicates.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.1\09. List Of Predicates.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.1\09. List Of Predicates.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates\bin\Debug\netcoreapp2.1\09. List Of Predicates.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.1\09. List Of Predicates.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.1\09. List Of Predicates.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.1\09. List Of Predicates.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.1\09. List Of Predicates.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.1\09. List Of Predicates.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates\obj\Debug\netcoreapp2.1\09. List Of Predicates.pdb

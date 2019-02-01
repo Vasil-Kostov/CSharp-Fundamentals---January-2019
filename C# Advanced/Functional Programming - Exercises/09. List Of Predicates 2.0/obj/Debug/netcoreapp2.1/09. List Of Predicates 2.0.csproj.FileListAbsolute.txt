@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates 2.0\bin\Debug\netcoreapp2.1\09. List Of Predicates 2.0.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates 2.0\bin\Debug\netcoreapp2.1\09. List Of Predicates 2.0.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates 2.0\bin\Debug\netcoreapp2.1\09. List Of Predicates 2.0.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates 2.0\bin\Debug\netcoreapp2.1\09. List Of Predicates 2.0.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates 2.0\bin\Debug\netcoreapp2.1\09. List Of Predicates 2.0.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates 2.0\obj\Debug\netcoreapp2.1\09. List Of Predicates 2.0.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates 2.0\obj\Debug\netcoreapp2.1\09. List Of Predicates 2.0.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates 2.0\obj\Debug\netcoreapp2.1\09. List Of Predicates 2.0.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates 2.0\obj\Debug\netcoreapp2.1\09. List Of Predicates 2.0.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\09. List Of Predicates 2.0\obj\Debug\netcoreapp2.1\09. List Of Predicates 2.0.pdb

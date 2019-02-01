@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\08. Balanced Parenthesis.csproj",
+      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\08. Balanced Parenthesis.csproj",
       "projectName": "08. Balanced Parenthesis",
-      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\08. Balanced Parenthesis.csproj",
+      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\08. Balanced Parenthesis.csproj",
       "packagesPath": "C:\\Users\\Vasil\\.nuget\\packages\\",
-      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\obj\\",
+      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Stacks and Queues - Exercise\\08. Balanced Parenthesis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

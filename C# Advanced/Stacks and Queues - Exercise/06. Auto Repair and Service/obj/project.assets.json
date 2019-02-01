@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Stacks and Queues - Exercise\\06. Auto Repair and Service\\06. Auto Repair and Service.csproj",
+      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Stacks and Queues - Exercise\\06. Auto Repair and Service\\06. Auto Repair and Service.csproj",
       "projectName": "06. Auto Repair and Service",
-      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Stacks and Queues - Exercise\\06. Auto Repair and Service\\06. Auto Repair and Service.csproj",
+      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Stacks and Queues - Exercise\\06. Auto Repair and Service\\06. Auto Repair and Service.csproj",
       "packagesPath": "C:\\Users\\Vasil\\.nuget\\packages\\",
-      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Stacks and Queues - Exercise\\06. Auto Repair and Service\\obj\\",
+      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Stacks and Queues - Exercise\\06. Auto Repair and Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

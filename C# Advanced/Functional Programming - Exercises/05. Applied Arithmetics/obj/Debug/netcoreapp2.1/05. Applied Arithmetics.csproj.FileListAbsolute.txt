@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\05. Applied Arithmetics\bin\Debug\netcoreapp2.1\05. Applied Arithmetics.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\05. Applied Arithmetics\obj\Debug\netcoreapp2.1\05. Applied Arithmetics.pdb

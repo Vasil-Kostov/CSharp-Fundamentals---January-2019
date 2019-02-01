@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\10. Predicate Party!\bin\Debug\netcoreapp2.1\10. Predicate Party!.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\10. Predicate Party!\obj\Debug\netcoreapp2.1\10. Predicate Party!.pdb

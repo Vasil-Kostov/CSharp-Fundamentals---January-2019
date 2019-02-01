@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp2.1\01. Sort Even Numbers.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp2.1\01. Sort Even Numbers.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp2.1\01. Sort Even Numbers.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp2.1\01. Sort Even Numbers.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\bin\Debug\netcoreapp2.1\01. Sort Even Numbers.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp2.1\01. Sort Even Numbers.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp2.1\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp2.1\01. Sort Even Numbers.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp2.1\01. Sort Even Numbers.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp2.1\01. Sort Even Numbers.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\01. Sort Even Numbers\obj\Debug\netcoreapp2.1\01. Sort Even Numbers.pdb

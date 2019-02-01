@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp2.1\05. Filter By Age.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp2.1\05. Filter By Age.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp2.1\05. Filter By Age.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp2.1\05. Filter By Age.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\05. Filter By Age\bin\Debug\netcoreapp2.1\05. Filter By Age.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.1\05. Filter By Age.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.1\05. Filter By Age.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.1\05. Filter By Age.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.1\05. Filter By Age.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.1\05. Filter By Age.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\05. Filter By Age\obj\Debug\netcoreapp2.1\05. Filter By Age.pdb

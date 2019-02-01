@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp2.1\03. Count Uppercase Words.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp2.1\03. Count Uppercase Words.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp2.1\03. Count Uppercase Words.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp2.1\03. Count Uppercase Words.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\03. Count Uppercase Words\bin\Debug\netcoreapp2.1\03. Count Uppercase Words.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.1\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.1\03. Count Uppercase Words.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.1\03. Count Uppercase Words.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.1\03. Count Uppercase Words.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.1\03. Count Uppercase Words.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\03. Count Uppercase Words\obj\Debug\netcoreapp2.1\03. Count Uppercase Words.csprojAssemblyReference.cache

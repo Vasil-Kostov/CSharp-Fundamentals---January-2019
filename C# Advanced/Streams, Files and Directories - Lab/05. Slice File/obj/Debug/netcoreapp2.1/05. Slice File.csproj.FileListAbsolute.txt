@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\05. Slice File\bin\Debug\netcoreapp2.1\05. Slice File.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\05. Slice File\bin\Debug\netcoreapp2.1\05. Slice File.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\05. Slice File\bin\Debug\netcoreapp2.1\05. Slice File.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\05. Slice File\bin\Debug\netcoreapp2.1\05. Slice File.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\05. Slice File\bin\Debug\netcoreapp2.1\05. Slice File.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\05. Slice File\obj\Debug\netcoreapp2.1\05. Slice File.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\05. Slice File\obj\Debug\netcoreapp2.1\05. Slice File.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\05. Slice File\obj\Debug\netcoreapp2.1\05. Slice File.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\05. Slice File\obj\Debug\netcoreapp2.1\05. Slice File.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\05. Slice File\obj\Debug\netcoreapp2.1\05. Slice File.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\05. Slice File\obj\Debug\netcoreapp2.1\05. Slice File.pdb

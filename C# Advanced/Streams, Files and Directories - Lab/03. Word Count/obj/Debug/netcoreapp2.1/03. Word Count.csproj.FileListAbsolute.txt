@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp2.1\03. Word Count.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp2.1\03. Word Count.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp2.1\03. Word Count.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp2.1\03. Word Count.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\bin\Debug\netcoreapp2.1\03. Word Count.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\03. Word Count\obj\Debug\netcoreapp2.1\03. Word Count.pdb

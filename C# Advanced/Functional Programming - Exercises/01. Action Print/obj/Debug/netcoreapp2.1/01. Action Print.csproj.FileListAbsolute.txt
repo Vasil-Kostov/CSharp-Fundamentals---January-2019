@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\01. Action Print\bin\Debug\netcoreapp2.1\01. Action Print.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\01. Action Print\bin\Debug\netcoreapp2.1\01. Action Print.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\01. Action Print\bin\Debug\netcoreapp2.1\01. Action Print.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\01. Action Print\bin\Debug\netcoreapp2.1\01. Action Print.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\01. Action Print\bin\Debug\netcoreapp2.1\01. Action Print.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\01. Action Print\obj\Debug\netcoreapp2.1\01. Action Print.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\01. Action Print\obj\Debug\netcoreapp2.1\01. Action Print.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\01. Action Print\obj\Debug\netcoreapp2.1\01. Action Print.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\01. Action Print\obj\Debug\netcoreapp2.1\01. Action Print.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\01. Action Print\obj\Debug\netcoreapp2.1\01. Action Print.pdb

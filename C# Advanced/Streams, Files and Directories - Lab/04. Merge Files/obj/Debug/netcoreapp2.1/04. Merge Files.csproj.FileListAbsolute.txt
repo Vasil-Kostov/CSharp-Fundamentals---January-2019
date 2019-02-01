@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp2.1\04. Merge Files.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp2.1\04. Merge Files.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp2.1\04. Merge Files.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp2.1\04. Merge Files.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\bin\Debug\netcoreapp2.1\04. Merge Files.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp2.1\04. Merge Files.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp2.1\04. Merge Files.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp2.1\04. Merge Files.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp2.1\04. Merge Files.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp2.1\04. Merge Files.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Streams, Files and Directories - Lab\04. Merge Files\obj\Debug\netcoreapp2.1\04. Merge Files.csprojAssemblyReference.cache

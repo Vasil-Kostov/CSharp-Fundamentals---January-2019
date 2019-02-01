@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Stacks and Queues - Exercise\\09. Simple Text Editor\\09. Simple Text Editor.csproj",
+      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Stacks and Queues - Exercise\\09. Simple Text Editor\\09. Simple Text Editor.csproj",
       "projectName": "09. Simple Text Editor",
-      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Stacks and Queues - Exercise\\09. Simple Text Editor\\09. Simple Text Editor.csproj",
+      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Stacks and Queues - Exercise\\09. Simple Text Editor\\09. Simple Text Editor.csproj",
       "packagesPath": "C:\\Users\\Vasil\\.nuget\\packages\\",
-      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Stacks and Queues - Exercise\\09. Simple Text Editor\\obj\\",
+      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Stacks and Queues - Exercise\\09. Simple Text Editor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.1\07. Predicate For Names.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.1\07. Predicate For Names.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.1\07. Predicate For Names.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.1\07. Predicate For Names.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\07. Predicate For Names\bin\Debug\netcoreapp2.1\07. Predicate For Names.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.1\07. Predicate For Names.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.1\07. Predicate For Names.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.1\07. Predicate For Names.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.1\07. Predicate For Names.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.1\07. Predicate For Names.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\07. Predicate For Names\obj\Debug\netcoreapp2.1\07. Predicate For Names.pdb

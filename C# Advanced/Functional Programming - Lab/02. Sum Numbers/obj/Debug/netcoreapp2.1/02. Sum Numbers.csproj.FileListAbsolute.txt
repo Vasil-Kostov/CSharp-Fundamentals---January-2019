@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp2.1\02. Sum Numbers.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp2.1\02. Sum Numbers.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp2.1\02. Sum Numbers.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp2.1\02. Sum Numbers.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\02. Sum Numbers\bin\Debug\netcoreapp2.1\02. Sum Numbers.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Lab\02. Sum Numbers\obj\Debug\netcoreapp2.1\02. Sum Numbers.pdb

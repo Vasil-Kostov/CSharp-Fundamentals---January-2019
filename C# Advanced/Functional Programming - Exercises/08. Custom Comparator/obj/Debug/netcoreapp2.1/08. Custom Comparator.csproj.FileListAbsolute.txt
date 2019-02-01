@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\08. Custom Comparator\bin\Debug\netcoreapp2.1\08. Custom Comparator.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\08. Custom Comparator\bin\Debug\netcoreapp2.1\08. Custom Comparator.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\08. Custom Comparator\bin\Debug\netcoreapp2.1\08. Custom Comparator.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\08. Custom Comparator\bin\Debug\netcoreapp2.1\08. Custom Comparator.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\08. Custom Comparator\bin\Debug\netcoreapp2.1\08. Custom Comparator.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\08. Custom Comparator\obj\Debug\netcoreapp2.1\08. Custom Comparator.pdb

@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\03. Custom Min Function\bin\Debug\netcoreapp2.1\03. Custom Min Function.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\03. Custom Min Function\bin\Debug\netcoreapp2.1\03. Custom Min Function.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\03. Custom Min Function\bin\Debug\netcoreapp2.1\03. Custom Min Function.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\03. Custom Min Function\bin\Debug\netcoreapp2.1\03. Custom Min Function.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\03. Custom Min Function\bin\Debug\netcoreapp2.1\03. Custom Min Function.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\03. Custom Min Function\obj\Debug\netcoreapp2.1\03. Custom Min Function.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\03. Custom Min Function\obj\Debug\netcoreapp2.1\03. Custom Min Function.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\03. Custom Min Function\obj\Debug\netcoreapp2.1\03. Custom Min Function.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\03. Custom Min Function\obj\Debug\netcoreapp2.1\03. Custom Min Function.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\03. Custom Min Function\obj\Debug\netcoreapp2.1\03. Custom Min Function.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\03. Custom Min Function\obj\Debug\netcoreapp2.1\03. Custom Min Function.pdb

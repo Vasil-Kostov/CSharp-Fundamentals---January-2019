@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\06. Reverse And Exclude\bin\Debug\netcoreapp2.1\06. Reverse And Exclude.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\06. Reverse And Exclude\obj\Debug\netcoreapp2.1\06. Reverse And Exclude.pdb

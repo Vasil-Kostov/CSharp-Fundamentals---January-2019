@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\13. TriFunction\bin\Debug\netcoreapp2.1\13. TriFunction.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\13. TriFunction\bin\Debug\netcoreapp2.1\13. TriFunction.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\13. TriFunction\bin\Debug\netcoreapp2.1\13. TriFunction.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\13. TriFunction\bin\Debug\netcoreapp2.1\13. TriFunction.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\13. TriFunction\bin\Debug\netcoreapp2.1\13. TriFunction.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\13. TriFunction\obj\Debug\netcoreapp2.1\13. TriFunction.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\13. TriFunction\obj\Debug\netcoreapp2.1\13. TriFunction.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\13. TriFunction\obj\Debug\netcoreapp2.1\13. TriFunction.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\13. TriFunction\obj\Debug\netcoreapp2.1\13. TriFunction.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\13. TriFunction\obj\Debug\netcoreapp2.1\13. TriFunction.pdb

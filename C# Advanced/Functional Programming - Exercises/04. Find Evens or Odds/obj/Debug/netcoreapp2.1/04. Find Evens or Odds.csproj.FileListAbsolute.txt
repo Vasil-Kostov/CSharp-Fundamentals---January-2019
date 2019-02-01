@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\04. Find Evens or Odds\bin\Debug\netcoreapp2.1\04. Find Evens or Odds.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\04. Find Evens or Odds\obj\Debug\netcoreapp2.1\04. Find Evens or Odds.pdb
