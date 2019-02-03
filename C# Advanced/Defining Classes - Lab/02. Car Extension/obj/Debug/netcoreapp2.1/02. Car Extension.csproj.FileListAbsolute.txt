@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\02. Car Extension\bin\Debug\netcoreapp2.1\02. Car Extension.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\02. Car Extension\bin\Debug\netcoreapp2.1\02. Car Extension.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\02. Car Extension\bin\Debug\netcoreapp2.1\02. Car Extension.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\02. Car Extension\bin\Debug\netcoreapp2.1\02. Car Extension.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\02. Car Extension\bin\Debug\netcoreapp2.1\02. Car Extension.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\02. Car Extension\obj\Debug\netcoreapp2.1\02. Car Extension.pdb

@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\05. Special Cars\bin\Debug\netcoreapp2.1\05. Special Cars.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\05. Special Cars\bin\Debug\netcoreapp2.1\05. Special Cars.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\05. Special Cars\bin\Debug\netcoreapp2.1\05. Special Cars.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\05. Special Cars\bin\Debug\netcoreapp2.1\05. Special Cars.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\05. Special Cars\bin\Debug\netcoreapp2.1\05. Special Cars.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp2.1\05. Special Cars.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp2.1\05. Special Cars.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp2.1\05. Special Cars.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp2.1\05. Special Cars.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp2.1\05. Special Cars.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Lab\05. Special Cars\obj\Debug\netcoreapp2.1\05. Special Cars.pdb
