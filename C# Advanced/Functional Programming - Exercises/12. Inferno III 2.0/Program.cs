@@ -1,4 +1,4 @@
-﻿namespace _12._Inferno_III
+﻿namespace _12._Inferno_III_2._0
 {
     using System;
     using System.Collections.Generic;
@@ -18,6 +18,8 @@
 
             List<int> gems = Console.ReadLine().Split().Select(int.Parse).ToList();
 
+            List<int?> indexator = gems.Select(x => (int?)x).ToList();
+
             List<string> commands = new List<string>();
 
             string[] command = Console.ReadLine().Split(';');
@@ -33,23 +35,24 @@
                 command = Console.ReadLine().Split(';');
             }
 
-            for (int j = commands.Count - 1; j >= 0; j--)
+            foreach (var comm in commands)
             {
-                string sides = commands[j].Split(';').First();
-                int compareTo = int.Parse(commands[j].Split(';').Last());
+                string sides = comm.Split(';').First();
+                int compareTo = int.Parse(comm.Split(';').Last());
 
-                for (int i = gems.Count - 1; i >= 0; i--)
+                foreach (var gem in gems)
                 {
-                    int sum = func(sides, i, gems);
+                    int index = gems.IndexOf(gem);
+                    int sum = func(sides, index, gems);
 
                     if (sum == compareTo)
                     {
-                        gems.RemoveAt(i);
+                        indexator[index] = null;
                     }
                 }
             }
 
-            Console.WriteLine(string.Join(" ", gems));
+            Console.WriteLine(string.Join(" ", indexator.Where(x => x != null)));
         }
     }
 }

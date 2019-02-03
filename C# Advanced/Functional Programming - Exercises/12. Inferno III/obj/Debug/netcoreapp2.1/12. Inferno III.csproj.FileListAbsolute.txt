@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\12. Inferno III\obj\Debug\netcoreapp2.1\12. Inferno III.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\12. Inferno III\obj\Debug\netcoreapp2.1\12. Inferno III.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\12. Inferno III\obj\Debug\netcoreapp2.1\12. Inferno III.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\12. Inferno III\obj\Debug\netcoreapp2.1\12. Inferno III.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\12. Inferno III\bin\Debug\netcoreapp2.1\12. Inferno III.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\12. Inferno III\bin\Debug\netcoreapp2.1\12. Inferno III.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\12. Inferno III\bin\Debug\netcoreapp2.1\12. Inferno III.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\12. Inferno III\bin\Debug\netcoreapp2.1\12. Inferno III.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\12. Inferno III\bin\Debug\netcoreapp2.1\12. Inferno III.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\12. Inferno III\obj\Debug\netcoreapp2.1\12. Inferno III.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Functional Programming - Exercises\12. Inferno III\obj\Debug\netcoreapp2.1\12. Inferno III.pdb
