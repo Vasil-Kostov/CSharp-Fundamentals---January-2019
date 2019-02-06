@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\bin\Debug\netcoreapp2.1\02. Creating Constructors.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\02. Creating Constructors\obj\Debug\netcoreapp2.1\02. Creating Constructors.pdb

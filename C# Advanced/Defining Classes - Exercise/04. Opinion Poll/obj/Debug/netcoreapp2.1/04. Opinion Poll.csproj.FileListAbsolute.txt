@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp2.1\04. Opinion Poll.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp2.1\04. Opinion Poll.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp2.1\04. Opinion Poll.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp2.1\04. Opinion Poll.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\bin\Debug\netcoreapp2.1\04. Opinion Poll.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp2.1\04. Opinion Poll.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp2.1\04. Opinion Poll.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp2.1\04. Opinion Poll.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp2.1\04. Opinion Poll.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp2.1\04. Opinion Poll.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\04. Opinion Poll\obj\Debug\netcoreapp2.1\04. Opinion Poll.csprojAssemblyReference.cache

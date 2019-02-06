@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\09. Rectangle Intersection.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\09. Rectangle Intersection.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\09. Rectangle Intersection.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\09. Rectangle Intersection.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\09. Rectangle Intersection\bin\Debug\netcoreapp2.1\09. Rectangle Intersection.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\09. Rectangle Intersection\obj\Debug\netcoreapp2.1\09. Rectangle Intersection.pdb

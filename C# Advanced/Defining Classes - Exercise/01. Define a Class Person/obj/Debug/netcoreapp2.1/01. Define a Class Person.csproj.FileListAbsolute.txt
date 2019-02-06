@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.1\01. Define a Class Person.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.1\01. Define a Class Person.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.1\01. Define a Class Person.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.1\01. Define a Class Person.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\bin\Debug\netcoreapp2.1\01. Define a Class Person.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\01. Define a Class Person\obj\Debug\netcoreapp2.1\01. Define a Class Person.pdb

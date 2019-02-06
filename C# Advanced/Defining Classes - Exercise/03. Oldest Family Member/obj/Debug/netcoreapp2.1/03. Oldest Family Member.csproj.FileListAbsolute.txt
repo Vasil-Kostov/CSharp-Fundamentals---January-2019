@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp2.1\03. Oldest Family Member.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp2.1\03. Oldest Family Member.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp2.1\03. Oldest Family Member.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp2.1\03. Oldest Family Member.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\bin\Debug\netcoreapp2.1\03. Oldest Family Member.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.1\03. Oldest Family Member.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.1\03. Oldest Family Member.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.1\03. Oldest Family Member.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.1\03. Oldest Family Member.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.1\03. Oldest Family Member.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\03. Oldest Family Member\obj\Debug\netcoreapp2.1\03. Oldest Family Member.pdb

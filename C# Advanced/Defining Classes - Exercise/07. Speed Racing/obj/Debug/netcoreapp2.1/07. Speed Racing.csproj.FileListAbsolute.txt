@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\07. Speed Racing\bin\Debug\netcoreapp2.1\07. Speed Racing.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\07. Speed Racing\bin\Debug\netcoreapp2.1\07. Speed Racing.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\07. Speed Racing\bin\Debug\netcoreapp2.1\07. Speed Racing.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\07. Speed Racing\bin\Debug\netcoreapp2.1\07. Speed Racing.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\07. Speed Racing\bin\Debug\netcoreapp2.1\07. Speed Racing.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\07. Speed Racing\obj\Debug\netcoreapp2.1\07. Speed Racing.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\07. Speed Racing\obj\Debug\netcoreapp2.1\07. Speed Racing.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\07. Speed Racing\obj\Debug\netcoreapp2.1\07. Speed Racing.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\07. Speed Racing\obj\Debug\netcoreapp2.1\07. Speed Racing.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\07. Speed Racing\obj\Debug\netcoreapp2.1\07. Speed Racing.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\07. Speed Racing\obj\Debug\netcoreapp2.1\07. Speed Racing.csprojAssemblyReference.cache

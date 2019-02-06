@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp2.1\05. Date Modifier.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp2.1\05. Date Modifier.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp2.1\05. Date Modifier.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp2.1\05. Date Modifier.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\05. Date Modifier\bin\Debug\netcoreapp2.1\05. Date Modifier.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp2.1\05. Date Modifier.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp2.1\05. Date Modifier.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp2.1\05. Date Modifier.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp2.1\05. Date Modifier.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp2.1\05. Date Modifier.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\05. Date Modifier\obj\Debug\netcoreapp2.1\05. Date Modifier.pdb

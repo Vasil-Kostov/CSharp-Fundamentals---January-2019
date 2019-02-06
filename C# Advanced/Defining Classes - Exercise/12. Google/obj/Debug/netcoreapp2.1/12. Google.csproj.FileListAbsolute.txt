@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\12. Google\bin\Debug\netcoreapp2.1\12. Google.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\12. Google\bin\Debug\netcoreapp2.1\12. Google.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\12. Google\bin\Debug\netcoreapp2.1\12. Google.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\12. Google\bin\Debug\netcoreapp2.1\12. Google.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\12. Google\bin\Debug\netcoreapp2.1\12. Google.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.1\12. Google.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.1\12. Google.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.1\12. Google.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.1\12. Google.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.1\12. Google.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\12. Google\obj\Debug\netcoreapp2.1\12. Google.pdb

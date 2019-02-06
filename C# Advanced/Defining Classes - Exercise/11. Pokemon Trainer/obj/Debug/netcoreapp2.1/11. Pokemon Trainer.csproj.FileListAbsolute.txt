@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\netcoreapp2.1\11. Pokemon Trainer.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\netcoreapp2.1\11. Pokemon Trainer.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\netcoreapp2.1\11. Pokemon Trainer.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\netcoreapp2.1\11. Pokemon Trainer.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\11. Pokemon Trainer\bin\Debug\netcoreapp2.1\11. Pokemon Trainer.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.1\11. Pokemon Trainer.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.1\11. Pokemon Trainer.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.1\11. Pokemon Trainer.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.1\11. Pokemon Trainer.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.1\11. Pokemon Trainer.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\11. Pokemon Trainer\obj\Debug\netcoreapp2.1\11. Pokemon Trainer.pdb

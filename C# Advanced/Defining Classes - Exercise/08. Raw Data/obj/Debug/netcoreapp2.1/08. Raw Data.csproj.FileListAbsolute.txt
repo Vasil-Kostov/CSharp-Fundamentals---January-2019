@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\08. Raw Data\bin\Debug\netcoreapp2.1\08. Raw Data.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\08. Raw Data\bin\Debug\netcoreapp2.1\08. Raw Data.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\08. Raw Data\bin\Debug\netcoreapp2.1\08. Raw Data.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\08. Raw Data\bin\Debug\netcoreapp2.1\08. Raw Data.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\08. Raw Data\bin\Debug\netcoreapp2.1\08. Raw Data.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\08. Raw Data\obj\Debug\netcoreapp2.1\08. Raw Data.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\08. Raw Data\obj\Debug\netcoreapp2.1\08. Raw Data.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\08. Raw Data\obj\Debug\netcoreapp2.1\08. Raw Data.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\08. Raw Data\obj\Debug\netcoreapp2.1\08. Raw Data.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\08. Raw Data\obj\Debug\netcoreapp2.1\08. Raw Data.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\08. Raw Data\obj\Debug\netcoreapp2.1\08. Raw Data.pdb

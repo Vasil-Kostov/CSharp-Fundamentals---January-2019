@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\10. Car Salesman\bin\Debug\netcoreapp2.1\10. Car Salesman.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\10. Car Salesman\bin\Debug\netcoreapp2.1\10. Car Salesman.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\10. Car Salesman\bin\Debug\netcoreapp2.1\10. Car Salesman.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\10. Car Salesman\bin\Debug\netcoreapp2.1\10. Car Salesman.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\10. Car Salesman\bin\Debug\netcoreapp2.1\10. Car Salesman.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.1\10. Car Salesman.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.1\10. Car Salesman.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.1\10. Car Salesman.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.1\10. Car Salesman.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.1\10. Car Salesman.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\10. Car Salesman\obj\Debug\netcoreapp2.1\10. Car Salesman.csprojAssemblyReference.cache

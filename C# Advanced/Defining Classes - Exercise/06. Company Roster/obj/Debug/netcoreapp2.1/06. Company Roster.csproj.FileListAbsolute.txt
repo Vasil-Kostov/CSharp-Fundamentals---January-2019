@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\06. Company Roster\bin\Debug\netcoreapp2.1\06. Company Roster.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\06. Company Roster\bin\Debug\netcoreapp2.1\06. Company Roster.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\06. Company Roster\bin\Debug\netcoreapp2.1\06. Company Roster.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\06. Company Roster\bin\Debug\netcoreapp2.1\06. Company Roster.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\06. Company Roster\bin\Debug\netcoreapp2.1\06. Company Roster.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.1\06. Company Roster.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.1\06. Company Roster.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.1\06. Company Roster.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.1\06. Company Roster.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.1\06. Company Roster.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\06. Company Roster\obj\Debug\netcoreapp2.1\06. Company Roster.pdb

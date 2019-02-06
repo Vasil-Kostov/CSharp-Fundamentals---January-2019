@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\13. Family Tree\bin\Debug\netcoreapp2.1\13. Family Tree.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\13. Family Tree\bin\Debug\netcoreapp2.1\13. Family Tree.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\13. Family Tree\bin\Debug\netcoreapp2.1\13. Family Tree.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\13. Family Tree\bin\Debug\netcoreapp2.1\13. Family Tree.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\13. Family Tree\bin\Debug\netcoreapp2.1\13. Family Tree.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\13. Family Tree\obj\Debug\netcoreapp2.1\13. Family Tree.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\13. Family Tree\obj\Debug\netcoreapp2.1\13. Family Tree.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\13. Family Tree\obj\Debug\netcoreapp2.1\13. Family Tree.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\13. Family Tree\obj\Debug\netcoreapp2.1\13. Family Tree.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\13. Family Tree\obj\Debug\netcoreapp2.1\13. Family Tree.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Defining Classes - Exercise\13. Family Tree\obj\Debug\netcoreapp2.1\13. Family Tree.pdb
