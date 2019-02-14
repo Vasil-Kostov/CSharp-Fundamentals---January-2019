@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06.GenericCountMethodDouble.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06.GenericCountMethodDouble.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06.GenericCountMethodDouble.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06.GenericCountMethodDouble.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\06.GenericCountMethodDouble\bin\Debug\netcoreapp2.1\06.GenericCountMethodDouble.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06.GenericCountMethodDouble.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06.GenericCountMethodDouble.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06.GenericCountMethodDouble.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06.GenericCountMethodDouble.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06.GenericCountMethodDouble.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\06.GenericCountMethodDouble\obj\Debug\netcoreapp2.1\06.GenericCountMethodDouble.csprojAssemblyReference.cache

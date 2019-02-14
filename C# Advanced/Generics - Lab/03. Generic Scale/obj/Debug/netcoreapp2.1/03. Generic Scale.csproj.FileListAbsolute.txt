@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\03. Generic Scale\bin\Debug\netcoreapp2.1\03. Generic Scale.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\03. Generic Scale\bin\Debug\netcoreapp2.1\03. Generic Scale.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\03. Generic Scale\bin\Debug\netcoreapp2.1\03. Generic Scale.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\03. Generic Scale\bin\Debug\netcoreapp2.1\03. Generic Scale.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\03. Generic Scale\bin\Debug\netcoreapp2.1\03. Generic Scale.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\03. Generic Scale\obj\Debug\netcoreapp2.1\03. Generic Scale.pdb

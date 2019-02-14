@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\01.GenericBoxOfString\bin\Debug\netcoreapp2.1\01.GenericBoxOfString.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\01.GenericBoxOfString\bin\Debug\netcoreapp2.1\01.GenericBoxOfString.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\01.GenericBoxOfString\bin\Debug\netcoreapp2.1\01.GenericBoxOfString.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\01.GenericBoxOfString\bin\Debug\netcoreapp2.1\01.GenericBoxOfString.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\01.GenericBoxOfString\bin\Debug\netcoreapp2.1\01.GenericBoxOfString.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.1\01.GenericBoxOfString.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.1\01.GenericBoxOfString.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.1\01.GenericBoxOfString.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.1\01.GenericBoxOfString.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.1\01.GenericBoxOfString.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\01.GenericBoxOfString\obj\Debug\netcoreapp2.1\01.GenericBoxOfString.pdb

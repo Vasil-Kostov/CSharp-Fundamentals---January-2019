@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp2.1\04. Froggy.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp2.1\04. Froggy.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp2.1\04. Froggy.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp2.1\04. Froggy.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\04. Froggy\bin\Debug\netcoreapp2.1\04. Froggy.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp2.1\04. Froggy.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp2.1\04. Froggy.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp2.1\04. Froggy.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp2.1\04. Froggy.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp2.1\04. Froggy.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\04. Froggy\obj\Debug\netcoreapp2.1\04. Froggy.pdb

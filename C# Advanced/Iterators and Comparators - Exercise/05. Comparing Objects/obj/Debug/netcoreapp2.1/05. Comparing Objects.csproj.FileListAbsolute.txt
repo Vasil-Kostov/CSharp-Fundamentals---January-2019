@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\netcoreapp2.1\05. Comparing Objects.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\netcoreapp2.1\05. Comparing Objects.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\netcoreapp2.1\05. Comparing Objects.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\netcoreapp2.1\05. Comparing Objects.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\bin\Debug\netcoreapp2.1\05. Comparing Objects.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp2.1\05. Comparing Objects.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp2.1\05. Comparing Objects.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp2.1\05. Comparing Objects.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp2.1\05. Comparing Objects.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp2.1\05. Comparing Objects.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\05. Comparing Objects\obj\Debug\netcoreapp2.1\05. Comparing Objects.pdb

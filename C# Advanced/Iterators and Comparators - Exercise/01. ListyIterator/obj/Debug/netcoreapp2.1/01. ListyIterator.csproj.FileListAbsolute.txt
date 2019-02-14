@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\netcoreapp2.1\01. ListyIterator.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\netcoreapp2.1\01. ListyIterator.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\netcoreapp2.1\01. ListyIterator.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\netcoreapp2.1\01. ListyIterator.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\01. ListyIterator\bin\Debug\netcoreapp2.1\01. ListyIterator.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp2.1\01. ListyIterator.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp2.1\01. ListyIterator.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp2.1\01. ListyIterator.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp2.1\01. ListyIterator.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp2.1\01. ListyIterator.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\01. ListyIterator\obj\Debug\netcoreapp2.1\01. ListyIterator.pdb

@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\08.Threeuple\bin\Debug\netcoreapp2.1\08.Threeuple.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\08.Threeuple\bin\Debug\netcoreapp2.1\08.Threeuple.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\08.Threeuple\bin\Debug\netcoreapp2.1\08.Threeuple.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\08.Threeuple\bin\Debug\netcoreapp2.1\08.Threeuple.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\08.Threeuple\bin\Debug\netcoreapp2.1\08.Threeuple.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\08.Threeuple\obj\Debug\netcoreapp2.1\08.Threeuple.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\08.Threeuple\obj\Debug\netcoreapp2.1\08.Threeuple.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\08.Threeuple\obj\Debug\netcoreapp2.1\08.Threeuple.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\08.Threeuple\obj\Debug\netcoreapp2.1\08.Threeuple.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\08.Threeuple\obj\Debug\netcoreapp2.1\08.Threeuple.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\08.Threeuple\obj\Debug\netcoreapp2.1\08.Threeuple.pdb

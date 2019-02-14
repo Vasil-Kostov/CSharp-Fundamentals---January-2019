@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\03.GenericSwapMethodString\bin\Debug\netcoreapp2.1\03.GenericSwapMethodString.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\03.GenericSwapMethodString\bin\Debug\netcoreapp2.1\03.GenericSwapMethodString.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\03.GenericSwapMethodString\bin\Debug\netcoreapp2.1\03.GenericSwapMethodString.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\03.GenericSwapMethodString\bin\Debug\netcoreapp2.1\03.GenericSwapMethodString.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\03.GenericSwapMethodString\bin\Debug\netcoreapp2.1\03.GenericSwapMethodString.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Exercises\03.GenericSwapMethodString\obj\Debug\netcoreapp2.1\03.GenericSwapMethodString.pdb

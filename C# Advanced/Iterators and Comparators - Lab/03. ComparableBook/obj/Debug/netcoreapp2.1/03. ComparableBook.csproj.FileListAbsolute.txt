@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\netcoreapp2.1\03. ComparableBook.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\netcoreapp2.1\03. ComparableBook.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\netcoreapp2.1\03. ComparableBook.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\netcoreapp2.1\03. ComparableBook.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\bin\Debug\netcoreapp2.1\03. ComparableBook.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp2.1\03. ComparableBook.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp2.1\03. ComparableBook.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp2.1\03. ComparableBook.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp2.1\03. ComparableBook.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp2.1\03. ComparableBook.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Lab\03. ComparableBook\obj\Debug\netcoreapp2.1\03. ComparableBook.pdb

@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\06. Strategy Pattern\bin\Debug\netcoreapp2.1\06. Strategy Pattern.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\06. Strategy Pattern\bin\Debug\netcoreapp2.1\06. Strategy Pattern.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\06. Strategy Pattern\bin\Debug\netcoreapp2.1\06. Strategy Pattern.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\06. Strategy Pattern\bin\Debug\netcoreapp2.1\06. Strategy Pattern.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\06. Strategy Pattern\bin\Debug\netcoreapp2.1\06. Strategy Pattern.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\06. Strategy Pattern\obj\Debug\netcoreapp2.1\06. Strategy Pattern.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\06. Strategy Pattern\obj\Debug\netcoreapp2.1\06. Strategy Pattern.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\06. Strategy Pattern\obj\Debug\netcoreapp2.1\06. Strategy Pattern.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\06. Strategy Pattern\obj\Debug\netcoreapp2.1\06. Strategy Pattern.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\06. Strategy Pattern\obj\Debug\netcoreapp2.1\06. Strategy Pattern.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\06. Strategy Pattern\obj\Debug\netcoreapp2.1\06. Strategy Pattern.pdb

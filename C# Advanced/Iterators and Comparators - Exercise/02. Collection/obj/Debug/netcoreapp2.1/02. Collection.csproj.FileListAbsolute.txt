@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\02. Collection\bin\Debug\netcoreapp2.1\02. Collection.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\02. Collection\bin\Debug\netcoreapp2.1\02. Collection.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\02. Collection\bin\Debug\netcoreapp2.1\02. Collection.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\02. Collection\bin\Debug\netcoreapp2.1\02. Collection.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\02. Collection\bin\Debug\netcoreapp2.1\02. Collection.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\netcoreapp2.1\02. Collection.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\netcoreapp2.1\02. Collection.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\netcoreapp2.1\02. Collection.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\netcoreapp2.1\02. Collection.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\netcoreapp2.1\02. Collection.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\02. Collection\obj\Debug\netcoreapp2.1\02. Collection.pdb

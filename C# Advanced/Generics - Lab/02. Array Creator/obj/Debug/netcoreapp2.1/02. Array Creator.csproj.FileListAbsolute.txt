@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp2.1\02. Array Creator.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp2.1\02. Array Creator.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp2.1\02. Array Creator.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp2.1\02. Array Creator.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\02. Array Creator\bin\Debug\netcoreapp2.1\02. Array Creator.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.1\02. Array Creator.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.1\02. Array Creator.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.1\02. Array Creator.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.1\02. Array Creator.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.1\02. Array Creator.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Generics - Lab\02. Array Creator\obj\Debug\netcoreapp2.1\02. Array Creator.pdb
