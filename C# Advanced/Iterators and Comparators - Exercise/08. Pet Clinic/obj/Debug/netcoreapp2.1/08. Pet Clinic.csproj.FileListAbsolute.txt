@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\08. Pet Clinic\bin\Debug\netcoreapp2.1\08. Pet Clinic.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\08. Pet Clinic\bin\Debug\netcoreapp2.1\08. Pet Clinic.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\08. Pet Clinic\bin\Debug\netcoreapp2.1\08. Pet Clinic.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\08. Pet Clinic\bin\Debug\netcoreapp2.1\08. Pet Clinic.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\08. Pet Clinic\bin\Debug\netcoreapp2.1\08. Pet Clinic.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\08. Pet Clinic\obj\Debug\netcoreapp2.1\08. Pet Clinic.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\08. Pet Clinic\obj\Debug\netcoreapp2.1\08. Pet Clinic.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\08. Pet Clinic\obj\Debug\netcoreapp2.1\08. Pet Clinic.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\08. Pet Clinic\obj\Debug\netcoreapp2.1\08. Pet Clinic.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\08. Pet Clinic\obj\Debug\netcoreapp2.1\08. Pet Clinic.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\08. Pet Clinic\obj\Debug\netcoreapp2.1\08. Pet Clinic.pdb

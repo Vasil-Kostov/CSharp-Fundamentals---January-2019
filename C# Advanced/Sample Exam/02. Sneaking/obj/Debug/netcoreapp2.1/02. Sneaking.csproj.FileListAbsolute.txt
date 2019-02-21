@@ -1,0 +1,22 @@
+C:\Users\Vasil\Source\Repos\Sample Exam\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.deps.json
+C:\Users\Vasil\Source\Repos\Sample Exam\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.runtimeconfig.json
+C:\Users\Vasil\Source\Repos\Sample Exam\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.runtimeconfig.dev.json
+C:\Users\Vasil\Source\Repos\Sample Exam\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.dll
+C:\Users\Vasil\Source\Repos\Sample Exam\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.pdb
+C:\Users\Vasil\Source\Repos\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.csprojAssemblyReference.cache
+C:\Users\Vasil\Source\Repos\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Source\Repos\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.AssemblyInfoInputs.cache
+C:\Users\Vasil\Source\Repos\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.AssemblyInfo.cs
+C:\Users\Vasil\Source\Repos\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.dll
+C:\Users\Vasil\Source\Repos\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\02. Sneaking\bin\Debug\netcoreapp2.1\02. Sneaking.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\02. Sneaking\obj\Debug\netcoreapp2.1\02. Sneaking.pdb

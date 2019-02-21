@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\02. Excel Functions\bin\Debug\netcoreapp2.1\02. Excel Functions.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\02. Excel Functions\bin\Debug\netcoreapp2.1\02. Excel Functions.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\02. Excel Functions\bin\Debug\netcoreapp2.1\02. Excel Functions.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\02. Excel Functions\bin\Debug\netcoreapp2.1\02. Excel Functions.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\02. Excel Functions\bin\Debug\netcoreapp2.1\02. Excel Functions.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\02. Excel Functions\obj\Debug\netcoreapp2.1\02. Excel Functions.pdb

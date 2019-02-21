@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\01. Socks\bin\Debug\netcoreapp2.1\01. Socks.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\01. Socks\bin\Debug\netcoreapp2.1\01. Socks.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\01. Socks\bin\Debug\netcoreapp2.1\01. Socks.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\01. Socks\bin\Debug\netcoreapp2.1\01. Socks.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\01. Socks\bin\Debug\netcoreapp2.1\01. Socks.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Demo Exam - 17 Feb 2019\01. Socks\obj\Debug\netcoreapp2.1\01. Socks.pdb

@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\07. Equality Logic\bin\Debug\netcoreapp2.1\07. Equality Logic.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\07. Equality Logic\bin\Debug\netcoreapp2.1\07. Equality Logic.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\07. Equality Logic\bin\Debug\netcoreapp2.1\07. Equality Logic.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\07. Equality Logic\bin\Debug\netcoreapp2.1\07. Equality Logic.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\07. Equality Logic\bin\Debug\netcoreapp2.1\07. Equality Logic.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\07. Equality Logic\obj\Debug\netcoreapp2.1\07. Equality Logic.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\07. Equality Logic\obj\Debug\netcoreapp2.1\07. Equality Logic.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\07. Equality Logic\obj\Debug\netcoreapp2.1\07. Equality Logic.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\07. Equality Logic\obj\Debug\netcoreapp2.1\07. Equality Logic.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\07. Equality Logic\obj\Debug\netcoreapp2.1\07. Equality Logic.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Iterators and Comparators - Exercise\07. Equality Logic\obj\Debug\netcoreapp2.1\07. Equality Logic.pdb

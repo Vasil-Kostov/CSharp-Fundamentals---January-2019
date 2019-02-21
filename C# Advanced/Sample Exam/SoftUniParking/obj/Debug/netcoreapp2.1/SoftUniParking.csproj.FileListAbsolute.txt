@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\Sample Exam\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.pdb
