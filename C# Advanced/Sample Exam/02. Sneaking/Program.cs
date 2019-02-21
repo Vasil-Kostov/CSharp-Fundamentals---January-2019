@@ -33,8 +33,6 @@
                 matricx[i] = line.ToCharArray();
             }
 
-            //Sam may be killed befor the staert !!!
-
             string directions = Console.ReadLine();
 
             for (int i = 0; i < directions.Length; i++)

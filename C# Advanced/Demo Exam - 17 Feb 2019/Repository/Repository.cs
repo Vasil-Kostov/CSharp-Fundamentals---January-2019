@@ -10,13 +10,13 @@
         private Dictionary<int, Person> data;
         private int id;
 
-        public int Count => data.Count;
-
         public Repository()
         {
             this.data = new Dictionary<int, Person>();
             this.id = 0;
         }
+
+        public int Count => data.Count;
 
         public void Add(Person person)
         {
