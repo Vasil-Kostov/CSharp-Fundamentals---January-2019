@@ -41,16 +41,7 @@
 
                 if (matricx[Sam[0]].Any(c => c == 'b'))
                 {
-                    int enemyIndex = 0;
-
-                    for (int j = 0; j < matricx[Sam[0]].Length; j++)
-                    {
-                        if (matricx[Sam[0]][j] == 'b')
-                        {
-                            enemyIndex = j;
-                            break;
-                        }
-                    }
+                    int enemyIndex = Array.IndexOf(matricx[Sam[0]], 'b');
 
                     if (enemyIndex < Sam[1])
                     {
@@ -61,16 +52,7 @@
                 }
                 else if (matricx[Sam[0]].Any(c => c == 'd'))
                 {
-                    int enemyIndex = 0;
-
-                    for (int j = 0; j < matricx[Sam[0]].Length; j++)
-                    {
-                        if (matricx[Sam[0]][j] == 'd')
-                        {
-                            enemyIndex = j;
-                            break;
-                        }
-                    }
+                    int enemyIndex = Array.IndexOf(matricx[Sam[0]], 'd');
 
                     if (enemyIndex > Sam[1])
                     {
@@ -95,7 +77,7 @@
                 }
 
                 matricx[Sam[0]][Sam[1]] = 'S';
-                
+
                 if (Sam[0] == Nik[0])
                 {
                     Console.WriteLine("Nikoladze killed!");
@@ -117,42 +99,31 @@
             {
                 if (matricx[row].Any(c => c == 'b'))
                 {
-                    for (int i = 0; i < matricx[row].Length; i++)
-                    {
-                        if (matricx[row][i] == 'b')
-                        {
-                            if (i == matricx[row].Length - 1)
-                            {
-                                matricx[row][i] = 'd';
-                            }
-                            else
-                            {
-                                matricx[row][i] = '.';
-                                matricx[row][i + 1] = 'b';
-                            }
+                    int index = Array.IndexOf(matricx[row], 'b');
 
-                            break;
-                        }
+                    if (index == matricx[row].Length - 1)
+                    {
+                        matricx[row][index] = 'd';
                     }
+                    else
+                    {
+                        matricx[row][index] = '.';
+                        matricx[row][index + 1] = 'b';
+                    }
+
                 }
                 else if (matricx[row].Any(c => c == 'd'))
                 {
-                    for (int i = 0; i < matricx[row].Length; i++)
-                    {
-                        if (matricx[row][i] == 'd')
-                        {
-                            if (i == 0)
-                            {
-                                matricx[row][i] = 'b';
-                            }
-                            else
-                            {
-                                matricx[row][i] = '.';
-                                matricx[row][i - 1] = 'd';
-                            }
+                    int index = Array.IndexOf(matricx[row], 'd');
 
-                            break;
-                        }
+                    if (index == 0)
+                    {
+                        matricx[row][index] = 'b';
+                    }
+                    else
+                    {
+                        matricx[row][index] = '.';
+                        matricx[row][index - 1] = 'd';
                     }
                 }
             }
