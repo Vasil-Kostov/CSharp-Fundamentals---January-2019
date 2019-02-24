@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\07. Knight Game\\07. Knight Game.csproj",
+      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\07. Knight Game\\07. Knight Game.csproj",
       "projectName": "07. Knight Game",
-      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\07. Knight Game\\07. Knight Game.csproj",
+      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\07. Knight Game\\07. Knight Game.csproj",
       "packagesPath": "C:\\Users\\Vasil\\.nuget\\packages\\",
-      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\07. Knight Game\\obj\\",
+      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\07. Knight Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

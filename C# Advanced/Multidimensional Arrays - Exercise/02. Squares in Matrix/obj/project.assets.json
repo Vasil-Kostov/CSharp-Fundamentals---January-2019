@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\02. Squares in Matrix\\02. Squares in Matrix.csproj",
+      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\02. Squares in Matrix\\02. Squares in Matrix.csproj",
       "projectName": "02. Squares in Matrix",
-      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\02. Squares in Matrix\\02. Squares in Matrix.csproj",
+      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\02. Squares in Matrix\\02. Squares in Matrix.csproj",
       "packagesPath": "C:\\Users\\Vasil\\.nuget\\packages\\",
-      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\02. Squares in Matrix\\obj\\",
+      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\02. Squares in Matrix\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

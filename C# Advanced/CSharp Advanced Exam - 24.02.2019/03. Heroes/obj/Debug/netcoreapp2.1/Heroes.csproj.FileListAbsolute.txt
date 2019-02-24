@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\03. Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\03. Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\03. Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\03. Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\03. Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\03. Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\03. Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\03. Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\03. Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\03. Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\03. Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb

@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\02. Tron Racers\bin\Debug\netcoreapp2.1\02. Tron Racers.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\02. Tron Racers\obj\Debug\netcoreapp2.1\02. Tron Racers.pdb

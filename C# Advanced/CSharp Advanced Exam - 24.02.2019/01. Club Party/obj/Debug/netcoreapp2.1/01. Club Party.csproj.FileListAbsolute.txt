@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\01. Club Party\bin\Debug\netcoreapp2.1\01. Club Party.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# Advanced\CSharp Advanced Exam - 24.02.2019\01. Club Party\obj\Debug\netcoreapp2.1\01. Club Party.pdb

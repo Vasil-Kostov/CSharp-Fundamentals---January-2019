@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\03. Maximal Sum\\03. Maximal Sum.csproj",
+      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\03. Maximal Sum\\03. Maximal Sum.csproj",
       "projectName": "03. Maximal Sum",
-      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\03. Maximal Sum\\03. Maximal Sum.csproj",
+      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\03. Maximal Sum\\03. Maximal Sum.csproj",
       "packagesPath": "C:\\Users\\Vasil\\.nuget\\packages\\",
-      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\03. Maximal Sum\\obj\\",
+      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\03. Maximal Sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

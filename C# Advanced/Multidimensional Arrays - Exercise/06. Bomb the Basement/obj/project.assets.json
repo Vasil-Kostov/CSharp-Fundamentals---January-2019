@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\06. Bomb the Basement\\06. Bomb the Basement.csproj",
+      "projectUniqueName": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\06. Bomb the Basement\\06. Bomb the Basement.csproj",
       "projectName": "06. Bomb the Basement",
-      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\06. Bomb the Basement\\06. Bomb the Basement.csproj",
+      "projectPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\06. Bomb the Basement\\06. Bomb the Basement.csproj",
       "packagesPath": "C:\\Users\\Vasil\\.nuget\\packages\\",
-      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\Multidimensional Arrays - Exercise\\06. Bomb the Basement\\obj\\",
+      "outputPath": "D:\\VS-CSharp-Projects\\C# Fundamentals - January 2019\\C# Advanced\\Multidimensional Arrays - Exercise\\06. Bomb the Basement\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
