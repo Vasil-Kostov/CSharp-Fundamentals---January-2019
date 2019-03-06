@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Exercise\P06_Sneaking\bin\Debug\netcoreapp2.0\P06_Sneaking.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Exercise\P06_Sneaking\obj\Debug\netcoreapp2.0\P06_Sneaking.csprojAssemblyReference.cache

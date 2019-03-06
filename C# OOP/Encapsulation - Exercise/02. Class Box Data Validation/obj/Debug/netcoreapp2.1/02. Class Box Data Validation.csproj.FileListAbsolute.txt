@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.1\02. Class Box Data Validation.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.1\02. Class Box Data Validation.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.1\02. Class Box Data Validation.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.1\02. Class Box Data Validation.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\02. Class Box Data Validation\bin\Debug\netcoreapp2.1\02. Class Box Data Validation.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.1\02. Class Box Data Validation.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.1\02. Class Box Data Validation.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.1\02. Class Box Data Validation.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.1\02. Class Box Data Validation.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.1\02. Class Box Data Validation.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\02. Class Box Data Validation\obj\Debug\netcoreapp2.1\02. Class Box Data Validation.pdb

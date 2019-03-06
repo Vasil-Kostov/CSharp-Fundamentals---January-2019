@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\05. Pizza Calories\bin\Debug\netcoreapp2.1\05.PizzaCalories.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\05. Pizza Calories\bin\Debug\netcoreapp2.1\05.PizzaCalories.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\05. Pizza Calories\bin\Debug\netcoreapp2.1\05.PizzaCalories.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\05. Pizza Calories\bin\Debug\netcoreapp2.1\05.PizzaCalories.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\05. Pizza Calories\bin\Debug\netcoreapp2.1\05.PizzaCalories.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.1\05.PizzaCalories.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.1\05.PizzaCalories.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.1\05.PizzaCalories.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.1\05.PizzaCalories.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.1\05.PizzaCalories.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\05. Pizza Calories\obj\Debug\netcoreapp2.1\05.PizzaCalories.csprojAssemblyReference.cache

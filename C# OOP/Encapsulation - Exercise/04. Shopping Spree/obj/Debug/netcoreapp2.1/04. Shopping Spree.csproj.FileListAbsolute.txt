@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\04. Shopping Spree\bin\Debug\netcoreapp2.1\04. Shopping Spree.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\04. Shopping Spree\bin\Debug\netcoreapp2.1\04. Shopping Spree.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\04. Shopping Spree\bin\Debug\netcoreapp2.1\04. Shopping Spree.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\04. Shopping Spree\bin\Debug\netcoreapp2.1\04. Shopping Spree.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\04. Shopping Spree\bin\Debug\netcoreapp2.1\04. Shopping Spree.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.1\04. Shopping Spree.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.1\04. Shopping Spree.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.1\04. Shopping Spree.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.1\04. Shopping Spree.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.1\04. Shopping Spree.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\04. Shopping Spree\obj\Debug\netcoreapp2.1\04. Shopping Spree.pdb

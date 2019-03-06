@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\03. Animal Farm\bin\Debug\netcoreapp2.1\03. Animal Farm.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\03. Animal Farm\bin\Debug\netcoreapp2.1\03. Animal Farm.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\03. Animal Farm\bin\Debug\netcoreapp2.1\03. Animal Farm.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\03. Animal Farm\bin\Debug\netcoreapp2.1\03. Animal Farm.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\03. Animal Farm\bin\Debug\netcoreapp2.1\03. Animal Farm.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.1\03. Animal Farm.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.1\03. Animal Farm.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.1\03. Animal Farm.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.1\03. Animal Farm.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.1\03. Animal Farm.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\03. Animal Farm\obj\Debug\netcoreapp2.1\03. Animal Farm.pdb

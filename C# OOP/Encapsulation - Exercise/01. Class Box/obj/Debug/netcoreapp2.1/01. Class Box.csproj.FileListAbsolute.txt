@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\01. Class Box\bin\Debug\netcoreapp2.1\01. Class Box.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\01. Class Box\bin\Debug\netcoreapp2.1\01. Class Box.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\01. Class Box\bin\Debug\netcoreapp2.1\01. Class Box.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\01. Class Box\bin\Debug\netcoreapp2.1\01. Class Box.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\01. Class Box\bin\Debug\netcoreapp2.1\01. Class Box.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.1\01. Class Box.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.1\01. Class Box.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.1\01. Class Box.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.1\01. Class Box.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.1\01. Class Box.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\01. Class Box\obj\Debug\netcoreapp2.1\01. Class Box.pdb
