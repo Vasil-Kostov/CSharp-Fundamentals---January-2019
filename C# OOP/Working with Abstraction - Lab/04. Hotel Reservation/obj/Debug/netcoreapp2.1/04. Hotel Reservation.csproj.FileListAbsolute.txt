@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\04. Hotel Reservation\bin\Debug\netcoreapp2.1\04. Hotel Reservation.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\04. Hotel Reservation\bin\Debug\netcoreapp2.1\04. Hotel Reservation.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\04. Hotel Reservation\bin\Debug\netcoreapp2.1\04. Hotel Reservation.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\04. Hotel Reservation\bin\Debug\netcoreapp2.1\04. Hotel Reservation.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\04. Hotel Reservation\bin\Debug\netcoreapp2.1\04. Hotel Reservation.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\04. Hotel Reservation\obj\Debug\netcoreapp2.1\04. Hotel Reservation.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\04. Hotel Reservation\obj\Debug\netcoreapp2.1\04. Hotel Reservation.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\04. Hotel Reservation\obj\Debug\netcoreapp2.1\04. Hotel Reservation.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\04. Hotel Reservation\obj\Debug\netcoreapp2.1\04. Hotel Reservation.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\04. Hotel Reservation\obj\Debug\netcoreapp2.1\04. Hotel Reservation.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\04. Hotel Reservation\obj\Debug\netcoreapp2.1\04. Hotel Reservation.pdb

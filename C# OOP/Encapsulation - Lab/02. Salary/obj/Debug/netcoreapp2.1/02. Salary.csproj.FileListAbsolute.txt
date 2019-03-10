@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp2.1\02. Salary.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp2.1\02. Salary.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp2.1\02. Salary.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp2.1\02. Salary.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\02. Salary\bin\Debug\netcoreapp2.1\02. Salary.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.1\02. Salary.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.1\02. Salary.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.1\02. Salary.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.1\02. Salary.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.1\02. Salary.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\02. Salary\obj\Debug\netcoreapp2.1\02. Salary.pdb

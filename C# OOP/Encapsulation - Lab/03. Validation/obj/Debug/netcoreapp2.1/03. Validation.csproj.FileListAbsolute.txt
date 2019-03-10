@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.1\03. Validation.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.1\03. Validation.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.1\03. Validation.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.1\03. Validation.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\03. Validation\bin\Debug\netcoreapp2.1\03. Validation.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.1\03. Validation.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.1\03. Validation.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.1\03. Validation.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.1\03. Validation.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.1\03. Validation.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\03. Validation\obj\Debug\netcoreapp2.1\03. Validation.csprojAssemblyReference.cache

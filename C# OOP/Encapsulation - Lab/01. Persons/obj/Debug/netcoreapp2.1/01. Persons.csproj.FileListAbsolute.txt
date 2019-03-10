@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp2.1\01. Persons.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp2.1\01. Persons.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp2.1\01. Persons.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp2.1\01. Persons.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\01. Persons\bin\Debug\netcoreapp2.1\01. Persons.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Lab\01. Persons\obj\Debug\netcoreapp2.1\01. Persons.pdb

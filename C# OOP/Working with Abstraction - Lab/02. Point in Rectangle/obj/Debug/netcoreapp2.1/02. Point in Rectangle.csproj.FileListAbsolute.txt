@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\netcoreapp2.1\02. Point in Rectangle.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\netcoreapp2.1\02. Point in Rectangle.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\netcoreapp2.1\02. Point in Rectangle.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\netcoreapp2.1\02. Point in Rectangle.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\bin\Debug\netcoreapp2.1\02. Point in Rectangle.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\02. Point in Rectangle\obj\Debug\netcoreapp2.1\02. Point in Rectangle.pdb

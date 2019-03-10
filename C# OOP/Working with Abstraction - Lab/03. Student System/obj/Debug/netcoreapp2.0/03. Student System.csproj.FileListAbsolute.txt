@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\03. Student System\bin\Debug\netcoreapp2.0\03. Student System.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\03. Student System\bin\Debug\netcoreapp2.0\03. Student System.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\03. Student System\bin\Debug\netcoreapp2.0\03. Student System.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\03. Student System\bin\Debug\netcoreapp2.0\03. Student System.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\03. Student System\bin\Debug\netcoreapp2.0\03. Student System.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\03. Student System\obj\Debug\netcoreapp2.0\03. Student System.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\03. Student System\obj\Debug\netcoreapp2.0\03. Student System.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\03. Student System\obj\Debug\netcoreapp2.0\03. Student System.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\03. Student System\obj\Debug\netcoreapp2.0\03. Student System.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\03. Student System\obj\Debug\netcoreapp2.0\03. Student System.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\03. Student System\obj\Debug\netcoreapp2.0\03. Student System.pdb

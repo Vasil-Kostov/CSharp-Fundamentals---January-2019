@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\bin\Debug\netcoreapp2.1\01. Rhombus of Stars.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\bin\Debug\netcoreapp2.1\01. Rhombus of Stars.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\bin\Debug\netcoreapp2.1\01. Rhombus of Stars.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\bin\Debug\netcoreapp2.1\01. Rhombus of Stars.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\bin\Debug\netcoreapp2.1\01. Rhombus of Stars.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\obj\Debug\netcoreapp2.1\01. Rhombus of Stars.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\obj\Debug\netcoreapp2.1\01. Rhombus of Stars.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\obj\Debug\netcoreapp2.1\01. Rhombus of Stars.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\obj\Debug\netcoreapp2.1\01. Rhombus of Stars.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\obj\Debug\netcoreapp2.1\01. Rhombus of Stars.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Working with Abstraction - Lab\01. Rhombus of Stars\obj\Debug\netcoreapp2.1\01. Rhombus of Stars.pdb

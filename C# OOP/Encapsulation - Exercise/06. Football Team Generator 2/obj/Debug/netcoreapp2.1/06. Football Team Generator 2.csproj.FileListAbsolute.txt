@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\06. Football Team Generator 2\bin\Debug\netcoreapp2.1\06. Football Team Generator 2.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\06. Football Team Generator 2\bin\Debug\netcoreapp2.1\06. Football Team Generator 2.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\06. Football Team Generator 2\bin\Debug\netcoreapp2.1\06. Football Team Generator 2.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\06. Football Team Generator 2\bin\Debug\netcoreapp2.1\06. Football Team Generator 2.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\06. Football Team Generator 2\bin\Debug\netcoreapp2.1\06. Football Team Generator 2.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\06. Football Team Generator 2\obj\Debug\netcoreapp2.1\06. Football Team Generator 2.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\06. Football Team Generator 2\obj\Debug\netcoreapp2.1\06. Football Team Generator 2.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\06. Football Team Generator 2\obj\Debug\netcoreapp2.1\06. Football Team Generator 2.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\06. Football Team Generator 2\obj\Debug\netcoreapp2.1\06. Football Team Generator 2.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Encapsulation - Exercise\06. Football Team Generator 2\obj\Debug\netcoreapp2.1\06. Football Team Generator 2.pdb
