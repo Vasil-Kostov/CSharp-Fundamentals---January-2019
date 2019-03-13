@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\05. Mordor's Cruel Plan\bin\Debug\netcoreapp2.1\05. Mordor's Cruel Plan.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\05. Mordor's Cruel Plan\bin\Debug\netcoreapp2.1\05. Mordor's Cruel Plan.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\05. Mordor's Cruel Plan\bin\Debug\netcoreapp2.1\05. Mordor's Cruel Plan.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\05. Mordor's Cruel Plan\bin\Debug\netcoreapp2.1\05. Mordor's Cruel Plan.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\05. Mordor's Cruel Plan\bin\Debug\netcoreapp2.1\05. Mordor's Cruel Plan.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.1\05. Mordor's Cruel Plan.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.1\05. Mordor's Cruel Plan.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.1\05. Mordor's Cruel Plan.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.1\05. Mordor's Cruel Plan.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.1\05. Mordor's Cruel Plan.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\05. Mordor's Cruel Plan\obj\Debug\netcoreapp2.1\05. Mordor's Cruel Plan.pdb

@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\04. Online Radio Database\bin\Debug\netcoreapp2.1\04. Online Radio Database.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\04. Online Radio Database\bin\Debug\netcoreapp2.1\04. Online Radio Database.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\04. Online Radio Database\bin\Debug\netcoreapp2.1\04. Online Radio Database.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\04. Online Radio Database\bin\Debug\netcoreapp2.1\04. Online Radio Database.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\04. Online Radio Database\bin\Debug\netcoreapp2.1\04. Online Radio Database.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.1\04. Online Radio Database.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.1\04. Online Radio Database.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.1\04. Online Radio Database.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.1\04. Online Radio Database.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.1\04. Online Radio Database.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\04. Online Radio Database\obj\Debug\netcoreapp2.1\04. Online Radio Database.pdb

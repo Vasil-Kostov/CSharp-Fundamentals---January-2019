@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\06. Birthday Celebrations\obj\Debug\netcoreapp2.1\06. Birthday Celebrations.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\06. Birthday Celebrations\obj\Debug\netcoreapp2.1\06. Birthday Celebrations.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\06. Birthday Celebrations\obj\Debug\netcoreapp2.1\06. Birthday Celebrations.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\06. Birthday Celebrations\obj\Debug\netcoreapp2.1\06. Birthday Celebrations.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\06. Birthday Celebrations\bin\Debug\netcoreapp2.1\06. Birthday Celebrations.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\06. Birthday Celebrations\bin\Debug\netcoreapp2.1\06. Birthday Celebrations.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\06. Birthday Celebrations\bin\Debug\netcoreapp2.1\06. Birthday Celebrations.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\06. Birthday Celebrations\bin\Debug\netcoreapp2.1\06. Birthday Celebrations.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\06. Birthday Celebrations\bin\Debug\netcoreapp2.1\06. Birthday Celebrations.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\06. Birthday Celebrations\obj\Debug\netcoreapp2.1\06. Birthday Celebrations.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\06. Birthday Celebrations\obj\Debug\netcoreapp2.1\06. Birthday Celebrations.pdb

@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp2.1\01. Person.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp2.1\01. Person.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp2.1\01. Person.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp2.1\01. Person.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\01. Person\bin\Debug\netcoreapp2.1\01. Person.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp2.1\01. Person.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp2.1\01. Person.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp2.1\01. Person.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp2.1\01. Person.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp2.1\01. Person.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\01. Person\obj\Debug\netcoreapp2.1\01. Person.pdb

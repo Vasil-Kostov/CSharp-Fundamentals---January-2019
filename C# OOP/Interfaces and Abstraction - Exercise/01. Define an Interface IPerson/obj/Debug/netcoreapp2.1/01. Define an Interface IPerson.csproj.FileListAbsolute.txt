@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\01. Define an Interface IPerson.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\01. Define an Interface IPerson.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\01. Define an Interface IPerson.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\01. Define an Interface IPerson.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\bin\Debug\netcoreapp2.1\01. Define an Interface IPerson.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\01. Define an Interface IPerson.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\01. Define an Interface IPerson.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\01. Define an Interface IPerson.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\01. Define an Interface IPerson.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\01. Define an Interface IPerson.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\01. Define an Interface IPerson\obj\Debug\netcoreapp2.1\01. Define an Interface IPerson.pdb

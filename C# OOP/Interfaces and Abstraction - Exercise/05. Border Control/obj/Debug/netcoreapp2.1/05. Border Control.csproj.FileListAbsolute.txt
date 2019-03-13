@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\05. Border Control\obj\Debug\netcoreapp2.1\05. Border Control.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\05. Border Control\obj\Debug\netcoreapp2.1\05. Border Control.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\05. Border Control\obj\Debug\netcoreapp2.1\05. Border Control.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\05. Border Control\obj\Debug\netcoreapp2.1\05. Border Control.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\05. Border Control\bin\Debug\netcoreapp2.1\05. Border Control.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\05. Border Control\bin\Debug\netcoreapp2.1\05. Border Control.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\05. Border Control\bin\Debug\netcoreapp2.1\05. Border Control.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\05. Border Control\bin\Debug\netcoreapp2.1\05. Border Control.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\05. Border Control\bin\Debug\netcoreapp2.1\05. Border Control.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\05. Border Control\obj\Debug\netcoreapp2.1\05. Border Control.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\05. Border Control\obj\Debug\netcoreapp2.1\05. Border Control.pdb

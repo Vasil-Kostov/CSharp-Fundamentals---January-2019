@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\01. Shapes\bin\Debug\netcoreapp2.1\01. Shapes.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\01. Shapes\bin\Debug\netcoreapp2.1\01. Shapes.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\01. Shapes\bin\Debug\netcoreapp2.1\01. Shapes.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\01. Shapes\bin\Debug\netcoreapp2.1\01. Shapes.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\01. Shapes\bin\Debug\netcoreapp2.1\01. Shapes.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\01. Shapes\obj\Debug\netcoreapp2.1\01. Shapes.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\01. Shapes\obj\Debug\netcoreapp2.1\01. Shapes.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\01. Shapes\obj\Debug\netcoreapp2.1\01. Shapes.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\01. Shapes\obj\Debug\netcoreapp2.1\01. Shapes.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\01. Shapes\obj\Debug\netcoreapp2.1\01. Shapes.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\01. Shapes\obj\Debug\netcoreapp2.1\01. Shapes.pdb

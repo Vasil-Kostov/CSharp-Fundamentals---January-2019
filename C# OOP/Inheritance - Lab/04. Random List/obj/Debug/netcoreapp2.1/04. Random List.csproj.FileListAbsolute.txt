@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp2.1\04. Random List.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp2.1\04. Random List.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp2.1\04. Random List.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp2.1\04. Random List.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\04. Random List\bin\Debug\netcoreapp2.1\04. Random List.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp2.1\04. Random List.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp2.1\04. Random List.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp2.1\04. Random List.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp2.1\04. Random List.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp2.1\04. Random List.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\04. Random List\obj\Debug\netcoreapp2.1\04. Random List.pdb

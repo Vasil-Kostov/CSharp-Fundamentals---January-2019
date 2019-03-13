@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\03. Mankind\bin\Debug\netcoreapp2.1\03. Mankind.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\03. Mankind\bin\Debug\netcoreapp2.1\03. Mankind.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\03. Mankind\bin\Debug\netcoreapp2.1\03. Mankind.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\03. Mankind\bin\Debug\netcoreapp2.1\03. Mankind.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\03. Mankind\bin\Debug\netcoreapp2.1\03. Mankind.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\03. Mankind\obj\Debug\netcoreapp2.1\03. Mankind.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\03. Mankind\obj\Debug\netcoreapp2.1\03. Mankind.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\03. Mankind\obj\Debug\netcoreapp2.1\03. Mankind.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\03. Mankind\obj\Debug\netcoreapp2.1\03. Mankind.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\03. Mankind\obj\Debug\netcoreapp2.1\03. Mankind.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\03. Mankind\obj\Debug\netcoreapp2.1\03. Mankind.pdb

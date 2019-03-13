@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\04. Telephony\bin\Debug\netcoreapp2.1\04. Telephony.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\04. Telephony\bin\Debug\netcoreapp2.1\04. Telephony.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\04. Telephony\bin\Debug\netcoreapp2.1\04. Telephony.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\04. Telephony\bin\Debug\netcoreapp2.1\04. Telephony.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\04. Telephony\bin\Debug\netcoreapp2.1\04. Telephony.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\04. Telephony\obj\Debug\netcoreapp2.1\04. Telephony.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\04. Telephony\obj\Debug\netcoreapp2.1\04. Telephony.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\04. Telephony\obj\Debug\netcoreapp2.1\04. Telephony.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\04. Telephony\obj\Debug\netcoreapp2.1\04. Telephony.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\04. Telephony\obj\Debug\netcoreapp2.1\04. Telephony.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\04. Telephony\obj\Debug\netcoreapp2.1\04. Telephony.pdb

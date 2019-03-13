@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\03. Ferrari\bin\Debug\netcoreapp2.1\03. Ferrari.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\03. Ferrari\bin\Debug\netcoreapp2.1\03. Ferrari.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\03. Ferrari\bin\Debug\netcoreapp2.1\03. Ferrari.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\03. Ferrari\bin\Debug\netcoreapp2.1\03. Ferrari.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\03. Ferrari\bin\Debug\netcoreapp2.1\03. Ferrari.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\03. Ferrari\obj\Debug\netcoreapp2.1\03. Ferrari.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\03. Ferrari\obj\Debug\netcoreapp2.1\03. Ferrari.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\03. Ferrari\obj\Debug\netcoreapp2.1\03. Ferrari.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\03. Ferrari\obj\Debug\netcoreapp2.1\03. Ferrari.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\03. Ferrari\obj\Debug\netcoreapp2.1\03. Ferrari.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\03. Ferrari\obj\Debug\netcoreapp2.1\03. Ferrari.pdb

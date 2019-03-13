@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\10. Explicit Interfaces\bin\Debug\netcoreapp2.1\10. Explicit Interfaces.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\10. Explicit Interfaces\bin\Debug\netcoreapp2.1\10. Explicit Interfaces.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\10. Explicit Interfaces\bin\Debug\netcoreapp2.1\10. Explicit Interfaces.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\10. Explicit Interfaces\bin\Debug\netcoreapp2.1\10. Explicit Interfaces.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\10. Explicit Interfaces\bin\Debug\netcoreapp2.1\10. Explicit Interfaces.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\10. Explicit Interfaces\obj\Debug\netcoreapp2.1\10. Explicit Interfaces.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\10. Explicit Interfaces\obj\Debug\netcoreapp2.1\10. Explicit Interfaces.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\10. Explicit Interfaces\obj\Debug\netcoreapp2.1\10. Explicit Interfaces.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\10. Explicit Interfaces\obj\Debug\netcoreapp2.1\10. Explicit Interfaces.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\10. Explicit Interfaces\obj\Debug\netcoreapp2.1\10. Explicit Interfaces.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\10. Explicit Interfaces\obj\Debug\netcoreapp2.1\10. Explicit Interfaces.pdb

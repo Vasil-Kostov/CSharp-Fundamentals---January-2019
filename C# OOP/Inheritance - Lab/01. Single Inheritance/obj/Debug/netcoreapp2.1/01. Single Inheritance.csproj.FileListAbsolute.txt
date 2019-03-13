@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.1\01. Single Inheritance.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.1\01. Single Inheritance.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.1\01. Single Inheritance.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.1\01. Single Inheritance.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp2.1\01. Single Inheritance.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp2.1\01. Single Inheritance.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp2.1\01. Single Inheritance.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp2.1\01. Single Inheritance.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\01. Single Inheritance\bin\Debug\netcoreapp2.1\01. Single Inheritance.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.1\01. Single Inheritance.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Lab\01. Single Inheritance\obj\Debug\netcoreapp2.1\01. Single Inheritance.pdb

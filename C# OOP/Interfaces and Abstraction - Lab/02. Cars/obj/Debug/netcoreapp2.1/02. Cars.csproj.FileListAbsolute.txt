@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp2.1\02. Cars.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp2.1\02. Cars.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp2.1\02. Cars.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp2.1\02. Cars.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\02. Cars\bin\Debug\netcoreapp2.1\02. Cars.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp2.1\02. Cars.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp2.1\02. Cars.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp2.1\02. Cars.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp2.1\02. Cars.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp2.1\02. Cars.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Lab\02. Cars\obj\Debug\netcoreapp2.1\02. Cars.pdb

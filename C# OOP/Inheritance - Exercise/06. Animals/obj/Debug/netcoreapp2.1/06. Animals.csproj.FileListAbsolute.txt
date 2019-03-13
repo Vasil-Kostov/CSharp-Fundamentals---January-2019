@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\06. Animals\bin\Debug\netcoreapp2.1\06. Animals.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\06. Animals\bin\Debug\netcoreapp2.1\06. Animals.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\06. Animals\bin\Debug\netcoreapp2.1\06. Animals.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\06. Animals\bin\Debug\netcoreapp2.1\06. Animals.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\06. Animals\bin\Debug\netcoreapp2.1\06. Animals.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp2.1\06. Animals.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp2.1\06. Animals.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp2.1\06. Animals.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp2.1\06. Animals.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp2.1\06. Animals.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Inheritance - Exercise\06. Animals\obj\Debug\netcoreapp2.1\06. Animals.pdb

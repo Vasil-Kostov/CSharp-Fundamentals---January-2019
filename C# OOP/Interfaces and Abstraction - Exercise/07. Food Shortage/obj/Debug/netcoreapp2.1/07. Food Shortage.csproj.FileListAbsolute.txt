@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\07. Food Shortage\bin\Debug\netcoreapp2.1\07. Food Shortage.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\07. Food Shortage\bin\Debug\netcoreapp2.1\07. Food Shortage.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\07. Food Shortage\bin\Debug\netcoreapp2.1\07. Food Shortage.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\07. Food Shortage\bin\Debug\netcoreapp2.1\07. Food Shortage.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\07. Food Shortage\bin\Debug\netcoreapp2.1\07. Food Shortage.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\07. Food Shortage\obj\Debug\netcoreapp2.1\07. Food Shortage.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\07. Food Shortage\obj\Debug\netcoreapp2.1\07. Food Shortage.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\07. Food Shortage\obj\Debug\netcoreapp2.1\07. Food Shortage.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\07. Food Shortage\obj\Debug\netcoreapp2.1\07. Food Shortage.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\07. Food Shortage\obj\Debug\netcoreapp2.1\07. Food Shortage.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\07. Food Shortage\obj\Debug\netcoreapp2.1\07. Food Shortage.pdb

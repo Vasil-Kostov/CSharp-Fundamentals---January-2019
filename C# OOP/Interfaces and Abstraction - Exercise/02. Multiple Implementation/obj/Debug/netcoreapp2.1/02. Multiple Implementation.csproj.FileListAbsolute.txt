@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\netcoreapp2.1\02. Multiple Implementation.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\netcoreapp2.1\02. Multiple Implementation.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\netcoreapp2.1\02. Multiple Implementation.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\netcoreapp2.1\02. Multiple Implementation.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\bin\Debug\netcoreapp2.1\02. Multiple Implementation.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp2.1\02. Multiple Implementation.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp2.1\02. Multiple Implementation.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp2.1\02. Multiple Implementation.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp2.1\02. Multiple Implementation.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp2.1\02. Multiple Implementation.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\02. Multiple Implementation\obj\Debug\netcoreapp2.1\02. Multiple Implementation.pdb

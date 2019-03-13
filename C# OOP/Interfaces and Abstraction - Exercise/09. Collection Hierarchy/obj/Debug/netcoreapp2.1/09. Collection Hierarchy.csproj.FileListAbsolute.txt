@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\09. Collection Hierarchy\bin\Debug\netcoreapp2.1\09. Collection Hierarchy.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\09. Collection Hierarchy\bin\Debug\netcoreapp2.1\09. Collection Hierarchy.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\09. Collection Hierarchy\bin\Debug\netcoreapp2.1\09. Collection Hierarchy.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\09. Collection Hierarchy\bin\Debug\netcoreapp2.1\09. Collection Hierarchy.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\09. Collection Hierarchy\bin\Debug\netcoreapp2.1\09. Collection Hierarchy.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\09. Collection Hierarchy\obj\Debug\netcoreapp2.1\09. Collection Hierarchy.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\09. Collection Hierarchy\obj\Debug\netcoreapp2.1\09. Collection Hierarchy.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\09. Collection Hierarchy\obj\Debug\netcoreapp2.1\09. Collection Hierarchy.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\09. Collection Hierarchy\obj\Debug\netcoreapp2.1\09. Collection Hierarchy.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\09. Collection Hierarchy\obj\Debug\netcoreapp2.1\09. Collection Hierarchy.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\09. Collection Hierarchy\obj\Debug\netcoreapp2.1\09. Collection Hierarchy.pdb

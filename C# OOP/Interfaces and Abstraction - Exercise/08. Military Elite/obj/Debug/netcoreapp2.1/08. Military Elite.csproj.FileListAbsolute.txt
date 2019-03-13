@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\08. Military Elite\bin\Debug\netcoreapp2.1\08. Military Elite.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\08. Military Elite\bin\Debug\netcoreapp2.1\08. Military Elite.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\08. Military Elite\bin\Debug\netcoreapp2.1\08. Military Elite.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\08. Military Elite\bin\Debug\netcoreapp2.1\08. Military Elite.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\08. Military Elite\bin\Debug\netcoreapp2.1\08. Military Elite.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\08. Military Elite\obj\Debug\netcoreapp2.1\08. Military Elite.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\08. Military Elite\obj\Debug\netcoreapp2.1\08. Military Elite.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\08. Military Elite\obj\Debug\netcoreapp2.1\08. Military Elite.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\08. Military Elite\obj\Debug\netcoreapp2.1\08. Military Elite.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\08. Military Elite\obj\Debug\netcoreapp2.1\08. Military Elite.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Interfaces and Abstraction - Exercise\08. Military Elite\obj\Debug\netcoreapp2.1\08. Military Elite.pdb
