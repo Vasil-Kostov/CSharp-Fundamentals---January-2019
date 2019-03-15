@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\4. Generating 0-1 Vectors\obj\Debug\netcoreapp2.1\4. Generating 0-1 Vectors.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\4. Generating 0-1 Vectors\obj\Debug\netcoreapp2.1\4. Generating 0-1 Vectors.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\4. Generating 0-1 Vectors\obj\Debug\netcoreapp2.1\4. Generating 0-1 Vectors.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\4. Generating 0-1 Vectors\bin\Debug\netcoreapp2.1\4. Generating 0-1 Vectors.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\4. Generating 0-1 Vectors\bin\Debug\netcoreapp2.1\4. Generating 0-1 Vectors.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\4. Generating 0-1 Vectors\bin\Debug\netcoreapp2.1\4. Generating 0-1 Vectors.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\4. Generating 0-1 Vectors\bin\Debug\netcoreapp2.1\4. Generating 0-1 Vectors.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\4. Generating 0-1 Vectors\bin\Debug\netcoreapp2.1\4. Generating 0-1 Vectors.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\4. Generating 0-1 Vectors\obj\Debug\netcoreapp2.1\4. Generating 0-1 Vectors.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\4. Generating 0-1 Vectors\obj\Debug\netcoreapp2.1\4. Generating 0-1 Vectors.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\4. Generating 0-1 Vectors\obj\Debug\netcoreapp2.1\4. Generating 0-1 Vectors.csprojAssemblyReference.cache

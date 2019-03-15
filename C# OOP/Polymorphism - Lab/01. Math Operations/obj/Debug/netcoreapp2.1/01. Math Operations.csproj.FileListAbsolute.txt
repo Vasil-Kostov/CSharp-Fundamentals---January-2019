@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp2.1\01. Math Operations.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp2.1\01. Math Operations.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp2.1\01. Math Operations.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp2.1\01. Math Operations.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\01. Math Operations\bin\Debug\netcoreapp2.1\01. Math Operations.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp2.1\01. Math Operations.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp2.1\01. Math Operations.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp2.1\01. Math Operations.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp2.1\01. Math Operations.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp2.1\01. Math Operations.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\01. Math Operations\obj\Debug\netcoreapp2.1\01. Math Operations.pdb

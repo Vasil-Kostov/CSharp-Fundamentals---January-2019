@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp2.1\03. Shapes.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp2.1\03. Shapes.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp2.1\03. Shapes.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp2.1\03. Shapes.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\03. Shapes\bin\Debug\netcoreapp2.1\03. Shapes.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp2.1\03. Shapes.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp2.1\03. Shapes.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp2.1\03. Shapes.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp2.1\03. Shapes.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp2.1\03. Shapes.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Lab\03. Shapes\obj\Debug\netcoreapp2.1\03. Shapes.pdb

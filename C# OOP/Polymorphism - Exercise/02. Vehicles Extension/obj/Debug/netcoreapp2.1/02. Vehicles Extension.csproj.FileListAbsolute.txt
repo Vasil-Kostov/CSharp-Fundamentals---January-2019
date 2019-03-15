@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp2.1\02. Vehicles Extension.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp2.1\02. Vehicles Extension.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp2.1\02. Vehicles Extension.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp2.1\02. Vehicles Extension.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Exercise\02. Vehicles Extension\bin\Debug\netcoreapp2.1\02. Vehicles Extension.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp2.1\02. Vehicles Extension.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp2.1\02. Vehicles Extension.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp2.1\02. Vehicles Extension.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp2.1\02. Vehicles Extension.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp2.1\02. Vehicles Extension.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Polymorphism - Exercise\02. Vehicles Extension\obj\Debug\netcoreapp2.1\02. Vehicles Extension.pdb

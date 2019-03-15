@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\03. Recursive Drawing\bin\Debug\netcoreapp2.1\03. Recursive Drawing.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\03. Recursive Drawing\bin\Debug\netcoreapp2.1\03. Recursive Drawing.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\03. Recursive Drawing\bin\Debug\netcoreapp2.1\03. Recursive Drawing.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\03. Recursive Drawing\bin\Debug\netcoreapp2.1\03. Recursive Drawing.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\03. Recursive Drawing\bin\Debug\netcoreapp2.1\03. Recursive Drawing.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.1\03. Recursive Drawing.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.1\03. Recursive Drawing.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.1\03. Recursive Drawing.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.1\03. Recursive Drawing.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.1\03. Recursive Drawing.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Recursion\03. Recursive Drawing\obj\Debug\netcoreapp2.1\03. Recursive Drawing.pdb
