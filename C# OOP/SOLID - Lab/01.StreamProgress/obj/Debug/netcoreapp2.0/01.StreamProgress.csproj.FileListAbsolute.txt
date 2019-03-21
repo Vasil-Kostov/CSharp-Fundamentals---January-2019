@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\01.StreamProgress\bin\Debug\netcoreapp2.0\01.StreamProgress.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\01.StreamProgress\bin\Debug\netcoreapp2.0\01.StreamProgress.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\01.StreamProgress\bin\Debug\netcoreapp2.0\01.StreamProgress.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\01.StreamProgress\bin\Debug\netcoreapp2.0\01.StreamProgress.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\01.StreamProgress\bin\Debug\netcoreapp2.0\01.StreamProgress.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\01.StreamProgress\obj\Debug\netcoreapp2.0\01.StreamProgress.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\01.StreamProgress\obj\Debug\netcoreapp2.0\01.StreamProgress.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\01.StreamProgress\obj\Debug\netcoreapp2.0\01.StreamProgress.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\01.StreamProgress\obj\Debug\netcoreapp2.0\01.StreamProgress.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\01.StreamProgress\obj\Debug\netcoreapp2.0\01.StreamProgress.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\01.StreamProgress\obj\Debug\netcoreapp2.0\01.StreamProgress.pdb

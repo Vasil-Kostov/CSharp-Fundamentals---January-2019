@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\03.DetailPrinter\bin\Debug\netcoreapp2.0\03.DetailPrinter.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\03.DetailPrinter\bin\Debug\netcoreapp2.0\03.DetailPrinter.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\03.DetailPrinter\bin\Debug\netcoreapp2.0\03.DetailPrinter.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\03.DetailPrinter\bin\Debug\netcoreapp2.0\03.DetailPrinter.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\03.DetailPrinter\bin\Debug\netcoreapp2.0\03.DetailPrinter.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\03.DetailPrinter\obj\Debug\netcoreapp2.0\03.DetailPrinter.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\03.DetailPrinter\obj\Debug\netcoreapp2.0\03.DetailPrinter.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\03.DetailPrinter\obj\Debug\netcoreapp2.0\03.DetailPrinter.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\03.DetailPrinter\obj\Debug\netcoreapp2.0\03.DetailPrinter.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\03.DetailPrinter\obj\Debug\netcoreapp2.0\03.DetailPrinter.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\SOLID - Lab\03.DetailPrinter\obj\Debug\netcoreapp2.0\03.DetailPrinter.pdb
