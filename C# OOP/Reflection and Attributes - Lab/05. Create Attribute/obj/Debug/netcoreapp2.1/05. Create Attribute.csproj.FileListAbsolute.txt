@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp2.1\05. Create Attribute.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp2.1\05. Create Attribute.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp2.1\05. Create Attribute.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp2.1\05. Create Attribute.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\bin\Debug\netcoreapp2.1\05. Create Attribute.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp2.1\05. Create Attribute.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp2.1\05. Create Attribute.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp2.1\05. Create Attribute.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp2.1\05. Create Attribute.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\05. Create Attribute\obj\Debug\netcoreapp2.1\05. Create Attribute.pdb

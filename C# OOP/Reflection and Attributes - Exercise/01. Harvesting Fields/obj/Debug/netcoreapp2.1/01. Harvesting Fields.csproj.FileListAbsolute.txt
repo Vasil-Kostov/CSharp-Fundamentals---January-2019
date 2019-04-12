@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\01. Harvesting Fields\bin\Debug\netcoreapp2.1\01. Harvesting Fields.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\01. Harvesting Fields\bin\Debug\netcoreapp2.1\01. Harvesting Fields.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\01. Harvesting Fields\bin\Debug\netcoreapp2.1\01. Harvesting Fields.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\01. Harvesting Fields\bin\Debug\netcoreapp2.1\01. Harvesting Fields.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\01. Harvesting Fields\bin\Debug\netcoreapp2.1\01. Harvesting Fields.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\01. Harvesting Fields\obj\Debug\netcoreapp2.1\01. Harvesting Fields.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\01. Harvesting Fields\obj\Debug\netcoreapp2.1\01. Harvesting Fields.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\01. Harvesting Fields\obj\Debug\netcoreapp2.1\01. Harvesting Fields.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\01. Harvesting Fields\obj\Debug\netcoreapp2.1\01. Harvesting Fields.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\01. Harvesting Fields\obj\Debug\netcoreapp2.1\01. Harvesting Fields.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\01. Harvesting Fields\obj\Debug\netcoreapp2.1\01. Harvesting Fields.pdb

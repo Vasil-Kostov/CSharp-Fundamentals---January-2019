@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp2.1\02. High Quality Mistakes.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp2.1\02. High Quality Mistakes.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp2.1\02. High Quality Mistakes.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp2.1\02. High Quality Mistakes.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\bin\Debug\netcoreapp2.1\02. High Quality Mistakes.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp2.1\02. High Quality Mistakes.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp2.1\02. High Quality Mistakes.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp2.1\02. High Quality Mistakes.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp2.1\02. High Quality Mistakes.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp2.1\02. High Quality Mistakes.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\02. High Quality Mistakes\obj\Debug\netcoreapp2.1\02. High Quality Mistakes.pdb

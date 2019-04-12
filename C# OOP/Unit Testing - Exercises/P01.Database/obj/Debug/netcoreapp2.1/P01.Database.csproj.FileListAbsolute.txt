@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P01.Database\bin\Debug\netcoreapp2.1\P01.Database.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P01.Database\bin\Debug\netcoreapp2.1\P01.Database.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P01.Database\bin\Debug\netcoreapp2.1\P01.Database.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P01.Database\bin\Debug\netcoreapp2.1\P01.Database.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P01.Database\bin\Debug\netcoreapp2.1\P01.Database.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P01.Database\obj\Debug\netcoreapp2.1\P01.Database.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P01.Database\obj\Debug\netcoreapp2.1\P01.Database.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P01.Database\obj\Debug\netcoreapp2.1\P01.Database.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P01.Database\obj\Debug\netcoreapp2.1\P01.Database.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P01.Database\obj\Debug\netcoreapp2.1\P01.Database.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P01.Database\obj\Debug\netcoreapp2.1\P01.Database.pdb

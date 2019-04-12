@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\04. Collector\bin\Debug\netcoreapp2.1\04. Collector.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\04. Collector\bin\Debug\netcoreapp2.1\04. Collector.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\04. Collector\bin\Debug\netcoreapp2.1\04. Collector.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\04. Collector\bin\Debug\netcoreapp2.1\04. Collector.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\04. Collector\bin\Debug\netcoreapp2.1\04. Collector.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp2.1\04. Collector.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp2.1\04. Collector.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp2.1\04. Collector.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp2.1\04. Collector.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp2.1\04. Collector.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\04. Collector\obj\Debug\netcoreapp2.1\04. Collector.csprojAssemblyReference.cache

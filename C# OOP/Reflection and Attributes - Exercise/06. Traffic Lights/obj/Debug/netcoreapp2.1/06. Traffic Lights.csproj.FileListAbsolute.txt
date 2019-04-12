@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\06. Traffic Lights\bin\Debug\netcoreapp2.1\06. Traffic Lights.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\06. Traffic Lights\bin\Debug\netcoreapp2.1\06. Traffic Lights.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\06. Traffic Lights\bin\Debug\netcoreapp2.1\06. Traffic Lights.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\06. Traffic Lights\bin\Debug\netcoreapp2.1\06. Traffic Lights.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\06. Traffic Lights\bin\Debug\netcoreapp2.1\06. Traffic Lights.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\06. Traffic Lights\obj\Debug\netcoreapp2.1\06. Traffic Lights.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\06. Traffic Lights\obj\Debug\netcoreapp2.1\06. Traffic Lights.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\06. Traffic Lights\obj\Debug\netcoreapp2.1\06. Traffic Lights.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\06. Traffic Lights\obj\Debug\netcoreapp2.1\06. Traffic Lights.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\06. Traffic Lights\obj\Debug\netcoreapp2.1\06. Traffic Lights.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\06. Traffic Lights\obj\Debug\netcoreapp2.1\06. Traffic Lights.pdb

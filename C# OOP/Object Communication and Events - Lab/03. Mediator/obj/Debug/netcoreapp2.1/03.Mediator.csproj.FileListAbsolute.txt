@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\03. Mediator\bin\Debug\netcoreapp2.1\03.Mediator.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\03. Mediator\bin\Debug\netcoreapp2.1\03.Mediator.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\03. Mediator\bin\Debug\netcoreapp2.1\03.Mediator.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\03. Mediator\bin\Debug\netcoreapp2.1\03.Mediator.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\03. Mediator\bin\Debug\netcoreapp2.1\03.Mediator.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\03. Mediator\obj\Debug\netcoreapp2.1\03.Mediator.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\03. Mediator\obj\Debug\netcoreapp2.1\03.Mediator.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\03. Mediator\obj\Debug\netcoreapp2.1\03.Mediator.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\03. Mediator\obj\Debug\netcoreapp2.1\03.Mediator.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\03. Mediator\obj\Debug\netcoreapp2.1\03.Mediator.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\03. Mediator\obj\Debug\netcoreapp2.1\03.Mediator.pdb

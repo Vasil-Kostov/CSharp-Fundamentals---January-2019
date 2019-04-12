@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\07. Inferno Infinity\obj\Debug\netcoreapp2.1\07. Inferno Infinity.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\07. Inferno Infinity\obj\Debug\netcoreapp2.1\07. Inferno Infinity.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\07. Inferno Infinity\obj\Debug\netcoreapp2.1\07. Inferno Infinity.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\07. Inferno Infinity\obj\Debug\netcoreapp2.1\07. Inferno Infinity.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\07. Inferno Infinity\bin\Debug\netcoreapp2.1\07. Inferno Infinity.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\07. Inferno Infinity\bin\Debug\netcoreapp2.1\07. Inferno Infinity.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\07. Inferno Infinity\bin\Debug\netcoreapp2.1\07. Inferno Infinity.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\07. Inferno Infinity\bin\Debug\netcoreapp2.1\07. Inferno Infinity.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\07. Inferno Infinity\bin\Debug\netcoreapp2.1\07. Inferno Infinity.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\07. Inferno Infinity\obj\Debug\netcoreapp2.1\07. Inferno Infinity.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\07. Inferno Infinity\obj\Debug\netcoreapp2.1\07. Inferno Infinity.pdb

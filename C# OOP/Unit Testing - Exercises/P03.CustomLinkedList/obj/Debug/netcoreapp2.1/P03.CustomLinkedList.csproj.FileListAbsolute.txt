@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P03.CustomLinkedList\bin\Debug\netcoreapp2.1\P03.CustomLinkedList.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P03.CustomLinkedList\bin\Debug\netcoreapp2.1\P03.CustomLinkedList.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P03.CustomLinkedList\bin\Debug\netcoreapp2.1\P03.CustomLinkedList.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P03.CustomLinkedList\bin\Debug\netcoreapp2.1\P03.CustomLinkedList.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P03.CustomLinkedList\bin\Debug\netcoreapp2.1\P03.CustomLinkedList.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P03.CustomLinkedList\obj\Debug\netcoreapp2.1\P03.CustomLinkedList.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P03.CustomLinkedList\obj\Debug\netcoreapp2.1\P03.CustomLinkedList.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P03.CustomLinkedList\obj\Debug\netcoreapp2.1\P03.CustomLinkedList.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P03.CustomLinkedList\obj\Debug\netcoreapp2.1\P03.CustomLinkedList.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P03.CustomLinkedList\obj\Debug\netcoreapp2.1\P03.CustomLinkedList.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P03.CustomLinkedList\obj\Debug\netcoreapp2.1\P03.CustomLinkedList.pdb

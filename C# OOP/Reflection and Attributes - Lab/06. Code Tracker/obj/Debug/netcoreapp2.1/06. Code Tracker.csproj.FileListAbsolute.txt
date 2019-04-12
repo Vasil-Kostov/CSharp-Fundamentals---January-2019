@@ -1,0 +1,10 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\netcoreapp2.1\06. Code Tracker.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\netcoreapp2.1\06. Code Tracker.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\netcoreapp2.1\06. Code Tracker.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\netcoreapp2.1\06. Code Tracker.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\bin\Debug\netcoreapp2.1\06. Code Tracker.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\netcoreapp2.1\06. Code Tracker.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\netcoreapp2.1\06. Code Tracker.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\netcoreapp2.1\06. Code Tracker.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\netcoreapp2.1\06. Code Tracker.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\06. Code Tracker\obj\Debug\netcoreapp2.1\06. Code Tracker.pdb

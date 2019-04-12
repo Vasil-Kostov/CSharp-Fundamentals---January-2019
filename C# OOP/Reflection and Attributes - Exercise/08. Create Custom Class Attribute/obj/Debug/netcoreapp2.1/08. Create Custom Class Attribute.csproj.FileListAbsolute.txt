@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\08. Create Custom Class Attribute\bin\Debug\netcoreapp2.1\08. Create Custom Class Attribute.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\08. Create Custom Class Attribute\bin\Debug\netcoreapp2.1\08. Create Custom Class Attribute.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\08. Create Custom Class Attribute\bin\Debug\netcoreapp2.1\08. Create Custom Class Attribute.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\08. Create Custom Class Attribute\bin\Debug\netcoreapp2.1\08. Create Custom Class Attribute.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\08. Create Custom Class Attribute\bin\Debug\netcoreapp2.1\08. Create Custom Class Attribute.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\08. Create Custom Class Attribute\obj\Debug\netcoreapp2.1\08. Create Custom Class Attribute.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\08. Create Custom Class Attribute\obj\Debug\netcoreapp2.1\08. Create Custom Class Attribute.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\08. Create Custom Class Attribute\obj\Debug\netcoreapp2.1\08. Create Custom Class Attribute.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\08. Create Custom Class Attribute\obj\Debug\netcoreapp2.1\08. Create Custom Class Attribute.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\08. Create Custom Class Attribute\obj\Debug\netcoreapp2.1\08. Create Custom Class Attribute.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\08. Create Custom Class Attribute\obj\Debug\netcoreapp2.1\08. Create Custom Class Attribute.pdb

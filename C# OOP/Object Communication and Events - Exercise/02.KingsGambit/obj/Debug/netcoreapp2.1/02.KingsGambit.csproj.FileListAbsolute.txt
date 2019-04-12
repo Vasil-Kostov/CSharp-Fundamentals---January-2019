@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Exercise\02.KingsGambit\bin\Debug\netcoreapp2.1\02.KingsGambit.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Exercise\02.KingsGambit\bin\Debug\netcoreapp2.1\02.KingsGambit.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Exercise\02.KingsGambit\bin\Debug\netcoreapp2.1\02.KingsGambit.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Exercise\02.KingsGambit\bin\Debug\netcoreapp2.1\02.KingsGambit.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Exercise\02.KingsGambit\bin\Debug\netcoreapp2.1\02.KingsGambit.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Exercise\02.KingsGambit\obj\Debug\netcoreapp2.1\02.KingsGambit.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Exercise\02.KingsGambit\obj\Debug\netcoreapp2.1\02.KingsGambit.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Exercise\02.KingsGambit\obj\Debug\netcoreapp2.1\02.KingsGambit.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Exercise\02.KingsGambit\obj\Debug\netcoreapp2.1\02.KingsGambit.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Exercise\02.KingsGambit\obj\Debug\netcoreapp2.1\02.KingsGambit.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Exercise\02.KingsGambit\obj\Debug\netcoreapp2.1\02.KingsGambit.pdb

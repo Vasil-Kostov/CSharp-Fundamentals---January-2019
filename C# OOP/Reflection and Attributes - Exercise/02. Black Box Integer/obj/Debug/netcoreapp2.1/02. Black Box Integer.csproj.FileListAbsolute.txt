@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\02. Black Box Integer\bin\Debug\netcoreapp2.1\02. Black Box Integer.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\02. Black Box Integer\bin\Debug\netcoreapp2.1\02. Black Box Integer.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\02. Black Box Integer\bin\Debug\netcoreapp2.1\02. Black Box Integer.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\02. Black Box Integer\bin\Debug\netcoreapp2.1\02. Black Box Integer.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\02. Black Box Integer\bin\Debug\netcoreapp2.1\02. Black Box Integer.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\02. Black Box Integer\obj\Debug\netcoreapp2.1\02. Black Box Integer.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\02. Black Box Integer\obj\Debug\netcoreapp2.1\02. Black Box Integer.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\02. Black Box Integer\obj\Debug\netcoreapp2.1\02. Black Box Integer.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\02. Black Box Integer\obj\Debug\netcoreapp2.1\02. Black Box Integer.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\02. Black Box Integer\obj\Debug\netcoreapp2.1\02. Black Box Integer.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\02. Black Box Integer\obj\Debug\netcoreapp2.1\02. Black Box Integer.pdb

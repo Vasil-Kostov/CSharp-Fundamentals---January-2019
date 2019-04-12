@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P04.StorageMaster\bin\Debug\netcoreapp2.1\P04.StorageMaster.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P04.StorageMaster\bin\Debug\netcoreapp2.1\P04.StorageMaster.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P04.StorageMaster\bin\Debug\netcoreapp2.1\P04.StorageMaster.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P04.StorageMaster\bin\Debug\netcoreapp2.1\P04.StorageMaster.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P04.StorageMaster\bin\Debug\netcoreapp2.1\P04.StorageMaster.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P04.StorageMaster\obj\Debug\netcoreapp2.1\P04.StorageMaster.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P04.StorageMaster\obj\Debug\netcoreapp2.1\P04.StorageMaster.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P04.StorageMaster\obj\Debug\netcoreapp2.1\P04.StorageMaster.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P04.StorageMaster\obj\Debug\netcoreapp2.1\P04.StorageMaster.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P04.StorageMaster\obj\Debug\netcoreapp2.1\P04.StorageMaster.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Unit Testing - Exercises\P04.StorageMaster\obj\Debug\netcoreapp2.1\P04.StorageMaster.pdb

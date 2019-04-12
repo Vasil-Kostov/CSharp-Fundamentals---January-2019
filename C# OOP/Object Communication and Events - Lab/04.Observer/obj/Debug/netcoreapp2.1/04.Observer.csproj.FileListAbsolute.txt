@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\04.Observer\bin\Debug\netcoreapp2.1\04.Observer.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\04.Observer\bin\Debug\netcoreapp2.1\04.Observer.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\04.Observer\bin\Debug\netcoreapp2.1\04.Observer.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\04.Observer\bin\Debug\netcoreapp2.1\04.Observer.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\04.Observer\bin\Debug\netcoreapp2.1\04.Observer.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\04.Observer\obj\Debug\netcoreapp2.1\04.Observer.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\04.Observer\obj\Debug\netcoreapp2.1\04.Observer.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\04.Observer\obj\Debug\netcoreapp2.1\04.Observer.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\04.Observer\obj\Debug\netcoreapp2.1\04.Observer.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\04.Observer\obj\Debug\netcoreapp2.1\04.Observer.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\04.Observer\obj\Debug\netcoreapp2.1\04.Observer.pdb

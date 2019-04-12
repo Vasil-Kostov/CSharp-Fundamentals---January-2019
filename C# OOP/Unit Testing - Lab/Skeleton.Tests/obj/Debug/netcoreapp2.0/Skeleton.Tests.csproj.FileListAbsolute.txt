@@ -1,0 +1,17 @@
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.csprojAssemblyReference.cache
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.AssemblyInfoInputs.cache
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.AssemblyInfo.cs
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.deps.json
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.runtimeconfig.json
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.runtimeconfig.dev.json
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.dll
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.Tests.pdb
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.dll
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\bin\Debug\netcoreapp2.0\Skeleton.pdb
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.csproj.CopyComplete
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.dll
+C:\Users\Vasil\Desktop\Lab\Skeleton.Tests\obj\Debug\netcoreapp2.0\Skeleton.Tests.pdb

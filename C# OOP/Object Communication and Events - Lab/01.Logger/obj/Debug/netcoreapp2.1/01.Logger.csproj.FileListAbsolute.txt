@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\01.Logger\obj\Debug\netcoreapp2.1\01.Logger.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\01.Logger\obj\Debug\netcoreapp2.1\01.Logger.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\01.Logger\obj\Debug\netcoreapp2.1\01.Logger.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\01.Logger\obj\Debug\netcoreapp2.1\01.Logger.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\01.Logger\bin\Debug\netcoreapp2.1\01.Logger.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\01.Logger\bin\Debug\netcoreapp2.1\01.Logger.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\01.Logger\bin\Debug\netcoreapp2.1\01.Logger.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\01.Logger\bin\Debug\netcoreapp2.1\01.Logger.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\01.Logger\bin\Debug\netcoreapp2.1\01.Logger.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\01.Logger\obj\Debug\netcoreapp2.1\01.Logger.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Object Communication and Events - Lab\01.Logger\obj\Debug\netcoreapp2.1\01.Logger.pdb

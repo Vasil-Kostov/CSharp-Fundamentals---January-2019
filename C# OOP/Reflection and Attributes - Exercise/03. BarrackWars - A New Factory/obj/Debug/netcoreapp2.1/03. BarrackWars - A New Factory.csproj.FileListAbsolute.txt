@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\03. BarrackWars - A New Factory\obj\Debug\netcoreapp2.1\03. BarrackWars - A New Factory.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\03. BarrackWars - A New Factory\obj\Debug\netcoreapp2.1\03. BarrackWars - A New Factory.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\03. BarrackWars - A New Factory\obj\Debug\netcoreapp2.1\03. BarrackWars - A New Factory.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\03. BarrackWars - A New Factory\obj\Debug\netcoreapp2.1\03. BarrackWars - A New Factory.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\03. BarrackWars - A New Factory\bin\Debug\netcoreapp2.1\03. BarrackWars - A New Factory.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\03. BarrackWars - A New Factory\bin\Debug\netcoreapp2.1\03. BarrackWars - A New Factory.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\03. BarrackWars - A New Factory\bin\Debug\netcoreapp2.1\03. BarrackWars - A New Factory.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\03. BarrackWars - A New Factory\bin\Debug\netcoreapp2.1\03. BarrackWars - A New Factory.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\03. BarrackWars - A New Factory\bin\Debug\netcoreapp2.1\03. BarrackWars - A New Factory.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\03. BarrackWars - A New Factory\obj\Debug\netcoreapp2.1\03. BarrackWars - A New Factory.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Exercise\03. BarrackWars - A New Factory\obj\Debug\netcoreapp2.1\03. BarrackWars - A New Factory.pdb

@@ -1,0 +1,11 @@
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp2.1\01. Stealer.deps.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp2.1\01. Stealer.runtimeconfig.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp2.1\01. Stealer.runtimeconfig.dev.json
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp2.1\01. Stealer.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\01. Stealer\bin\Debug\netcoreapp2.1\01. Stealer.pdb
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.csprojAssemblyReference.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.csproj.CoreCompileInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.AssemblyInfoInputs.cache
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.AssemblyInfo.cs
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.dll
+D:\VS-CSharp-Projects\C# Fundamentals - January 2019\C# OOP\Reflection and Attributes - Lab\01. Stealer\obj\Debug\netcoreapp2.1\01. Stealer.pdb
