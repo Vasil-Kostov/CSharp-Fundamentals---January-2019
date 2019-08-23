@@ -1,0 +1,11 @@
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom\bin\Debug\netcoreapp2.0\Telecom.deps.json
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom\bin\Debug\netcoreapp2.0\Telecom.runtimeconfig.json
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom\bin\Debug\netcoreapp2.0\Telecom.runtimeconfig.dev.json
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom\bin\Debug\netcoreapp2.0\Telecom.dll
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom\bin\Debug\netcoreapp2.0\Telecom.pdb
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom\obj\Debug\netcoreapp2.0\Telecom.csprojAssemblyReference.cache
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom\obj\Debug\netcoreapp2.0\Telecom.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom\obj\Debug\netcoreapp2.0\Telecom.AssemblyInfoInputs.cache
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom\obj\Debug\netcoreapp2.0\Telecom.AssemblyInfo.cs
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom\obj\Debug\netcoreapp2.0\Telecom.dll
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom\obj\Debug\netcoreapp2.0\Telecom.pdb

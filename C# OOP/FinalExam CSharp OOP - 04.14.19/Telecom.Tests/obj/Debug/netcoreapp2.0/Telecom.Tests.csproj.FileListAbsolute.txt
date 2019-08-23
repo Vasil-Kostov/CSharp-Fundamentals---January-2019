@@ -1,0 +1,17 @@
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\bin\Debug\netcoreapp2.0\Mono.Cecil.dll
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\bin\Debug\netcoreapp2.0\Telecom.Tests.deps.json
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\bin\Debug\netcoreapp2.0\Telecom.Tests.runtimeconfig.json
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\bin\Debug\netcoreapp2.0\Telecom.Tests.runtimeconfig.dev.json
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\bin\Debug\netcoreapp2.0\Telecom.Tests.dll
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\bin\Debug\netcoreapp2.0\Telecom.Tests.pdb
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\bin\Debug\netcoreapp2.0\Telecom.dll
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\bin\Debug\netcoreapp2.0\Telecom.pdb
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\obj\Debug\netcoreapp2.0\Telecom.Tests.csprojAssemblyReference.cache
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\obj\Debug\netcoreapp2.0\Telecom.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\obj\Debug\netcoreapp2.0\Telecom.Tests.AssemblyInfoInputs.cache
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\obj\Debug\netcoreapp2.0\Telecom.Tests.AssemblyInfo.cs
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\obj\Debug\netcoreapp2.0\Telecom.Tests.csproj.CopyComplete
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\obj\Debug\netcoreapp2.0\Telecom.Tests.dll
+C:\Users\Vasil\Desktop\FinalExam CSharp OOP - 04.14.19\Telecom.Tests\obj\Debug\netcoreapp2.0\Telecom.Tests.pdb
